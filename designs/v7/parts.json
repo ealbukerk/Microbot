@@ -1,0 +1,3292 @@
+[
+  {
+    "name": "Central sphere / OD 23.6 ID 22.9 mm",
+    "object": "Component",
+    "material": "PEEK",
+    "mass_g": 0.7727517345303027,
+    "valid": true,
+    "category": "cover",
+    "status": "Nominal 0.35 mm wall; stress/fatigue untested",
+    "dimensions_mm": [
+      23.57761927909712,
+      23.588806985235436,
+      23.6
+    ]
+  },
+  {
+    "name": "Triangular ramp 1.-6.-6 / three sloped facets",
+    "object": "Component001",
+    "material": "PEEK",
+    "mass_g": 0.020531956355113862,
+    "valid": true,
+    "category": "dock",
+    "status": "Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test",
+    "dimensions_mm": [
+      3.9000000000000004,
+      5.863647157892485,
+      5.900359959027261
+    ]
+  },
+  {
+    "name": "Triangular ramp 1.-6.-6 / split round pole 1",
+    "object": "Component002",
+    "material": "Steel",
+    "mass_g": 0.0025733463777910253,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.3000000000000007,
+      1.7888543819998333,
+      0.8000000000000052
+    ]
+  },
+  {
+    "name": "Triangular ramp 1.-6.-6 / split magnet 1",
+    "object": "Component003",
+    "material": "NdFeB",
+    "mass_g": 0.0028543296303086625,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.4499999999999993,
+      1.5874507866387546,
+      0.6991304888060368
+    ]
+  },
+  {
+    "name": "Triangular ramp 1.-6.-6 / split round pole 2",
+    "object": "Component004",
+    "material": "Steel",
+    "mass_g": 0.0025733463777910235,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.3000000000000007,
+      1.7888543819998315,
+      0.8000000000000007
+    ]
+  },
+  {
+    "name": "Triangular ramp 1.-6.-6 / split magnet 2",
+    "object": "Component005",
+    "material": "NdFeB",
+    "mass_g": 0.0028543296303086625,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.4499999999999993,
+      1.5874507866387546,
+      0.7000000000000002
+    ]
+  },
+  {
+    "name": "Triangular ramp 1.-6.-6 / hollow radial support",
+    "object": "Component006",
+    "material": "Titanium",
+    "mass_g": 0.0038244182044756417,
+    "valid": true,
+    "category": "structure",
+    "status": "0.9 OD / 0.44 ID radial support; joint strength untested",
+    "dimensions_mm": [
+      1.9565940004328901,
+      1.5956500660815944,
+      1.5954260403693175
+    ]
+  },
+  {
+    "name": "Triangular ramp 1.-6.6 / three sloped facets",
+    "object": "Component007",
+    "material": "PEEK",
+    "mass_g": 0.02053195632467076,
+    "valid": true,
+    "category": "dock",
+    "status": "Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test",
+    "dimensions_mm": [
+      3.9000000000000004,
+      5.863647157892483,
+      5.900359959027265
+    ]
+  },
+  {
+    "name": "Triangular ramp 1.-6.6 / split round pole 1",
+    "object": "Component008",
+    "material": "Steel",
+    "mass_g": 0.0025733463777910253,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.3000000000000007,
+      1.7888543819998333,
+      0.8000000000000052
+    ]
+  },
+  {
+    "name": "Triangular ramp 1.-6.6 / split magnet 1",
+    "object": "Component009",
+    "material": "NdFeB",
+    "mass_g": 0.0028543296303086625,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.4499999999999993,
+      1.5874507866387546,
+      0.6991304888060368
+    ]
+  },
+  {
+    "name": "Triangular ramp 1.-6.6 / split round pole 2",
+    "object": "Component010",
+    "material": "Steel",
+    "mass_g": 0.0025733463777910235,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.3000000000000007,
+      1.7888543819998315,
+      0.8000000000000007
+    ]
+  },
+  {
+    "name": "Triangular ramp 1.-6.6 / split magnet 2",
+    "object": "Component011",
+    "material": "NdFeB",
+    "mass_g": 0.0028543296303086625,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.4499999999999993,
+      1.5874507866387546,
+      0.7000000000000002
+    ]
+  },
+  {
+    "name": "Triangular ramp 1.-6.6 / hollow radial support",
+    "object": "Component012",
+    "material": "Titanium",
+    "mass_g": 0.003824425261880178,
+    "valid": true,
+    "category": "structure",
+    "status": "0.9 OD / 0.44 ID radial support; joint strength untested",
+    "dimensions_mm": [
+      1.9559779617815582,
+      1.5965825136930611,
+      1.5958022563892458
+    ]
+  },
+  {
+    "name": "Triangular ramp 1.6.-6 / three sloped facets",
+    "object": "Component013",
+    "material": "PEEK",
+    "mass_g": 0.021971614277281615,
+    "valid": true,
+    "category": "dock",
+    "status": "Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test",
+    "dimensions_mm": [
+      3.9000000000000004,
+      5.643590404174258,
+      7.089829842175305
+    ]
+  },
+  {
+    "name": "Triangular ramp 1.6.-6 / split round pole 1",
+    "object": "Component014",
+    "material": "Steel",
+    "mass_g": 0.0025733463777910253,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.3000000000000007,
+      1.7888543819998333,
+      0.8000000000000052
+    ]
+  },
+  {
+    "name": "Triangular ramp 1.6.-6 / split magnet 1",
+    "object": "Component015",
+    "material": "NdFeB",
+    "mass_g": 0.0028543296303086625,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.4499999999999993,
+      1.5874507866387546,
+      0.6991304888060368
+    ]
+  },
+  {
+    "name": "Triangular ramp 1.6.-6 / split round pole 2",
+    "object": "Component016",
+    "material": "Steel",
+    "mass_g": 0.0025733463777910235,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.3000000000000007,
+      1.7888543819998315,
+      0.8000000000000007
+    ]
+  },
+  {
+    "name": "Triangular ramp 1.6.-6 / split magnet 2",
+    "object": "Component017",
+    "material": "NdFeB",
+    "mass_g": 0.0028543296303086625,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.4499999999999993,
+      1.5874507866387546,
+      0.7000000000000002
+    ]
+  },
+  {
+    "name": "Triangular ramp 1.6.-6 / hollow radial support",
+    "object": "Component018",
+    "material": "Titanium",
+    "mass_g": 0.0038244253464739812,
+    "valid": true,
+    "category": "structure",
+    "status": "0.9 OD / 0.44 ID radial support; joint strength untested",
+    "dimensions_mm": [
+      1.9559170957216097,
+      1.5957984429754575,
+      1.5966003043976125
+    ]
+  },
+  {
+    "name": "Triangular ramp 1.6.6 / three sloped facets",
+    "object": "Component019",
+    "material": "PEEK",
+    "mass_g": 0.021971629790028924,
+    "valid": true,
+    "category": "dock",
+    "status": "Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test",
+    "dimensions_mm": [
+      3.9000000000000004,
+      5.64359040417426,
+      7.089829842175304
+    ]
+  },
+  {
+    "name": "Triangular ramp 1.6.6 / split round pole 1",
+    "object": "Component020",
+    "material": "Steel",
+    "mass_g": 0.0025733463777910253,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.3000000000000007,
+      1.7888543819998333,
+      0.8000000000000052
+    ]
+  },
+  {
+    "name": "Triangular ramp 1.6.6 / split magnet 1",
+    "object": "Component021",
+    "material": "NdFeB",
+    "mass_g": 0.0028543296303086625,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.4499999999999993,
+      1.5874507866387546,
+      0.6991304888060368
+    ]
+  },
+  {
+    "name": "Triangular ramp 1.6.6 / split round pole 2",
+    "object": "Component022",
+    "material": "Steel",
+    "mass_g": 0.0025733463777910235,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.3000000000000007,
+      1.7888543819998315,
+      0.8000000000000007
+    ]
+  },
+  {
+    "name": "Triangular ramp 1.6.6 / split magnet 2",
+    "object": "Component023",
+    "material": "NdFeB",
+    "mass_g": 0.0028543296303086625,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.4499999999999993,
+      1.5874507866387546,
+      0.7000000000000002
+    ]
+  },
+  {
+    "name": "Triangular ramp 1.6.6 / hollow radial support",
+    "object": "Component024",
+    "material": "Titanium",
+    "mass_g": 0.0038244253594067906,
+    "valid": true,
+    "category": "structure",
+    "status": "0.9 OD / 0.44 ID radial support; joint strength untested",
+    "dimensions_mm": [
+      1.9560933901036144,
+      1.5958001948021323,
+      1.5966014976572689
+    ]
+  },
+  {
+    "name": "Triangular ramp 2.-6.-6 / three sloped facets",
+    "object": "Component025",
+    "material": "PEEK",
+    "mass_g": 0.02053196046782065,
+    "valid": true,
+    "category": "dock",
+    "status": "Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test",
+    "dimensions_mm": [
+      3.900000000000002,
+      5.863647157892487,
+      5.900359959027263
+    ]
+  },
+  {
+    "name": "Triangular ramp 2.-6.-6 / split round pole 1",
+    "object": "Component026",
+    "material": "Steel",
+    "mass_g": 0.0025733463777910244,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.3000000000000007,
+      1.7888543819998333,
+      0.8000000000000052
+    ]
+  },
+  {
+    "name": "Triangular ramp 2.-6.-6 / split magnet 1",
+    "object": "Component027",
+    "material": "NdFeB",
+    "mass_g": 0.002854329630308661,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.4499999999999993,
+      1.5874507866387546,
+      0.6991304888060368
+    ]
+  },
+  {
+    "name": "Triangular ramp 2.-6.-6 / split round pole 2",
+    "object": "Component028",
+    "material": "Steel",
+    "mass_g": 0.0025733463777910235,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.3000000000000007,
+      1.7888543819998315,
+      0.8000000000000007
+    ]
+  },
+  {
+    "name": "Triangular ramp 2.-6.-6 / split magnet 2",
+    "object": "Component029",
+    "material": "NdFeB",
+    "mass_g": 0.002854329630308664,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.4499999999999993,
+      1.5874507866387546,
+      0.7000000000000002
+    ]
+  },
+  {
+    "name": "Triangular ramp 2.-6.-6 / hollow radial support",
+    "object": "Component030",
+    "material": "Titanium",
+    "mass_g": 0.0038244253594067958,
+    "valid": true,
+    "category": "structure",
+    "status": "0.9 OD / 0.44 ID radial support; joint strength untested",
+    "dimensions_mm": [
+      1.9560933901035948,
+      1.5958001948021332,
+      1.5966014976572689
+    ]
+  },
+  {
+    "name": "Triangular ramp 2.-6.6 / three sloped facets",
+    "object": "Component031",
+    "material": "PEEK",
+    "mass_g": 0.020531952195158316,
+    "valid": true,
+    "category": "dock",
+    "status": "Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test",
+    "dimensions_mm": [
+      3.900000000000002,
+      5.863647157892483,
+      5.900359959027265
+    ]
+  },
+  {
+    "name": "Triangular ramp 2.-6.6 / split round pole 1",
+    "object": "Component032",
+    "material": "Steel",
+    "mass_g": 0.0025733463777910244,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.3000000000000007,
+      1.7888543819998333,
+      0.8000000000000052
+    ]
+  },
+  {
+    "name": "Triangular ramp 2.-6.6 / split magnet 1",
+    "object": "Component033",
+    "material": "NdFeB",
+    "mass_g": 0.002854329630308661,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.4499999999999993,
+      1.5874507866387546,
+      0.6991304888060368
+    ]
+  },
+  {
+    "name": "Triangular ramp 2.-6.6 / split round pole 2",
+    "object": "Component034",
+    "material": "Steel",
+    "mass_g": 0.0025733463777910235,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.3000000000000007,
+      1.7888543819998315,
+      0.8000000000000007
+    ]
+  },
+  {
+    "name": "Triangular ramp 2.-6.6 / split magnet 2",
+    "object": "Component035",
+    "material": "NdFeB",
+    "mass_g": 0.002854329630308664,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.4499999999999993,
+      1.5874507866387546,
+      0.7000000000000002
+    ]
+  },
+  {
+    "name": "Triangular ramp 2.-6.6 / hollow radial support",
+    "object": "Component036",
+    "material": "Titanium",
+    "mass_g": 0.0038244253464739973,
+    "valid": true,
+    "category": "structure",
+    "status": "0.9 OD / 0.44 ID radial support; joint strength untested",
+    "dimensions_mm": [
+      1.9559170957216025,
+      1.5957984429754575,
+      1.5966003043976125
+    ]
+  },
+  {
+    "name": "Triangular ramp 2.6.-6 / three sloped facets",
+    "object": "Component037",
+    "material": "PEEK",
+    "mass_g": 0.02197161633797044,
+    "valid": true,
+    "category": "dock",
+    "status": "Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test",
+    "dimensions_mm": [
+      3.9000000000000004,
+      5.643590404174257,
+      7.089829842175304
+    ]
+  },
+  {
+    "name": "Triangular ramp 2.6.-6 / split round pole 1",
+    "object": "Component038",
+    "material": "Steel",
+    "mass_g": 0.002573346377791024,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.3000000000000007,
+      1.7888543819998333,
+      0.8000000000000052
+    ]
+  },
+  {
+    "name": "Triangular ramp 2.6.-6 / split magnet 1",
+    "object": "Component039",
+    "material": "NdFeB",
+    "mass_g": 0.002854329630308661,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.4499999999999993,
+      1.5874507866387546,
+      0.6991304888060368
+    ]
+  },
+  {
+    "name": "Triangular ramp 2.6.-6 / split round pole 2",
+    "object": "Component040",
+    "material": "Steel",
+    "mass_g": 0.002573346377791023,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.3000000000000007,
+      1.7888543819998315,
+      0.8000000000000007
+    ]
+  },
+  {
+    "name": "Triangular ramp 2.6.-6 / split magnet 2",
+    "object": "Component041",
+    "material": "NdFeB",
+    "mass_g": 0.0028543296303086634,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.4499999999999993,
+      1.5874507866387546,
+      0.7000000000000002
+    ]
+  },
+  {
+    "name": "Triangular ramp 2.6.-6 / hollow radial support",
+    "object": "Component042",
+    "material": "Titanium",
+    "mass_g": 0.0038244225148628412,
+    "valid": true,
+    "category": "structure",
+    "status": "0.9 OD / 0.44 ID radial support; joint strength untested",
+    "dimensions_mm": [
+      1.9569041567474272,
+      1.595319306679964,
+      1.5949049656863563
+    ]
+  },
+  {
+    "name": "Triangular ramp 2.6.6 / three sloped facets",
+    "object": "Component043",
+    "material": "PEEK",
+    "mass_g": 0.021971617945965895,
+    "valid": true,
+    "category": "dock",
+    "status": "Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test",
+    "dimensions_mm": [
+      3.9000000000000004,
+      5.643590404174259,
+      7.089829842175303
+    ]
+  },
+  {
+    "name": "Triangular ramp 2.6.6 / split round pole 1",
+    "object": "Component044",
+    "material": "Steel",
+    "mass_g": 0.002573346377791024,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.3000000000000007,
+      1.7888543819998333,
+      0.8000000000000052
+    ]
+  },
+  {
+    "name": "Triangular ramp 2.6.6 / split magnet 1",
+    "object": "Component045",
+    "material": "NdFeB",
+    "mass_g": 0.002854329630308661,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.4499999999999993,
+      1.5874507866387546,
+      0.6991304888060368
+    ]
+  },
+  {
+    "name": "Triangular ramp 2.6.6 / split round pole 2",
+    "object": "Component046",
+    "material": "Steel",
+    "mass_g": 0.002573346377791023,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.3000000000000007,
+      1.7888543819998315,
+      0.8000000000000007
+    ]
+  },
+  {
+    "name": "Triangular ramp 2.6.6 / split magnet 2",
+    "object": "Component047",
+    "material": "NdFeB",
+    "mass_g": 0.0028543296303086634,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.4499999999999993,
+      1.5874507866387546,
+      0.7000000000000002
+    ]
+  },
+  {
+    "name": "Triangular ramp 2.6.6 / hollow radial support",
+    "object": "Component048",
+    "material": "Titanium",
+    "mass_g": 0.0038244288360262642,
+    "valid": true,
+    "category": "structure",
+    "status": "0.9 OD / 0.44 ID radial support; joint strength untested",
+    "dimensions_mm": [
+      1.9564726714409737,
+      1.596564556244445,
+      1.5956560864323563
+    ]
+  },
+  {
+    "name": "Triangular ramp 3.-6.-6 / three sloped facets",
+    "object": "Component049",
+    "material": "PEEK",
+    "mass_g": 0.0205319660157329,
+    "valid": true,
+    "category": "dock",
+    "status": "Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test",
+    "dimensions_mm": [
+      5.900359959027263,
+      3.9000000000000012,
+      5.863647157892487
+    ]
+  },
+  {
+    "name": "Triangular ramp 3.-6.-6 / split round pole 1",
+    "object": "Component050",
+    "material": "Steel",
+    "mass_g": 0.0025733463777910257,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.800000000000006,
+      0.3000000000000007,
+      1.788854381999835
+    ]
+  },
+  {
+    "name": "Triangular ramp 3.-6.-6 / split magnet 1",
+    "object": "Component051",
+    "material": "NdFeB",
+    "mass_g": 0.0028543296303086612,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.6991304888060368,
+      0.4499999999999993,
+      1.5874507866387546
+    ]
+  },
+  {
+    "name": "Triangular ramp 3.-6.-6 / split round pole 2",
+    "object": "Component052",
+    "material": "Steel",
+    "mass_g": 0.0025733463777910235,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.8000000000000007,
+      0.3000000000000007,
+      1.7888543819998315
+    ]
+  },
+  {
+    "name": "Triangular ramp 3.-6.-6 / split magnet 2",
+    "object": "Component053",
+    "material": "NdFeB",
+    "mass_g": 0.0028543296303086634,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.7000000000000002,
+      0.4499999999999993,
+      1.5874507866387546
+    ]
+  },
+  {
+    "name": "Triangular ramp 3.-6.-6 / hollow radial support",
+    "object": "Component054",
+    "material": "Titanium",
+    "mass_g": 0.003824425261880155,
+    "valid": true,
+    "category": "structure",
+    "status": "0.9 OD / 0.44 ID radial support; joint strength untested",
+    "dimensions_mm": [
+      1.5965825136930594,
+      1.9559779617815742,
+      1.5958022563892449
+    ]
+  },
+  {
+    "name": "Triangular ramp 3.-6.6 / three sloped facets",
+    "object": "Component055",
+    "material": "PEEK",
+    "mass_g": 0.02053196214898687,
+    "valid": true,
+    "category": "dock",
+    "status": "Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test",
+    "dimensions_mm": [
+      5.900359959027264,
+      3.900000000000002,
+      5.863647157892485
+    ]
+  },
+  {
+    "name": "Triangular ramp 3.-6.6 / split round pole 1",
+    "object": "Component056",
+    "material": "Steel",
+    "mass_g": 0.0025733463777910257,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.800000000000006,
+      0.3000000000000007,
+      1.788854381999835
+    ]
+  },
+  {
+    "name": "Triangular ramp 3.-6.6 / split magnet 1",
+    "object": "Component057",
+    "material": "NdFeB",
+    "mass_g": 0.0028543296303086612,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.6991304888060368,
+      0.4499999999999993,
+      1.5874507866387546
+    ]
+  },
+  {
+    "name": "Triangular ramp 3.-6.6 / split round pole 2",
+    "object": "Component058",
+    "material": "Steel",
+    "mass_g": 0.0025733463777910235,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.8000000000000007,
+      0.3000000000000007,
+      1.7888543819998315
+    ]
+  },
+  {
+    "name": "Triangular ramp 3.-6.6 / split magnet 2",
+    "object": "Component059",
+    "material": "NdFeB",
+    "mass_g": 0.0028543296303086634,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.7000000000000002,
+      0.4499999999999993,
+      1.5874507866387546
+    ]
+  },
+  {
+    "name": "Triangular ramp 3.-6.6 / hollow radial support",
+    "object": "Component060",
+    "material": "Titanium",
+    "mass_g": 0.00382442441341734,
+    "valid": true,
+    "category": "structure",
+    "status": "0.9 OD / 0.44 ID radial support; joint strength untested",
+    "dimensions_mm": [
+      1.5948958366319381,
+      1.9569234848950021,
+      1.5954359299195664
+    ]
+  },
+  {
+    "name": "Triangular ramp 3.6.-6 / three sloped facets",
+    "object": "Component061",
+    "material": "PEEK",
+    "mass_g": 0.021971619201729124,
+    "valid": true,
+    "category": "dock",
+    "status": "Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test",
+    "dimensions_mm": [
+      7.089829842175304,
+      3.9000000000000004,
+      5.643590404174258
+    ]
+  },
+  {
+    "name": "Triangular ramp 3.6.-6 / split round pole 1",
+    "object": "Component062",
+    "material": "Steel",
+    "mass_g": 0.0025733463777910257,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.800000000000006,
+      0.3000000000000007,
+      1.788854381999835
+    ]
+  },
+  {
+    "name": "Triangular ramp 3.6.-6 / split magnet 1",
+    "object": "Component063",
+    "material": "NdFeB",
+    "mass_g": 0.0028543296303086612,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.6991304888060368,
+      0.4499999999999993,
+      1.5874507866387546
+    ]
+  },
+  {
+    "name": "Triangular ramp 3.6.-6 / split round pole 2",
+    "object": "Component064",
+    "material": "Steel",
+    "mass_g": 0.0025733463777910235,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.8000000000000007,
+      0.3000000000000007,
+      1.7888543819998315
+    ]
+  },
+  {
+    "name": "Triangular ramp 3.6.-6 / split magnet 2",
+    "object": "Component065",
+    "material": "NdFeB",
+    "mass_g": 0.0028543296303086634,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.7000000000000002,
+      0.4499999999999993,
+      1.5874507866387546
+    ]
+  },
+  {
+    "name": "Triangular ramp 3.6.-6 / hollow radial support",
+    "object": "Component066",
+    "material": "Titanium",
+    "mass_g": 0.003824418204475397,
+    "valid": true,
+    "category": "structure",
+    "status": "0.9 OD / 0.44 ID radial support; joint strength untested",
+    "dimensions_mm": [
+      1.5956500660815873,
+      1.9565940004328937,
+      1.5954260403693192
+    ]
+  },
+  {
+    "name": "Triangular ramp 3.6.6 / three sloped facets",
+    "object": "Component067",
+    "material": "PEEK",
+    "mass_g": 0.021971617323782437,
+    "valid": true,
+    "category": "dock",
+    "status": "Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test",
+    "dimensions_mm": [
+      7.0898298421753,
+      3.900000000000002,
+      5.64359040417426
+    ]
+  },
+  {
+    "name": "Triangular ramp 3.6.6 / split round pole 1",
+    "object": "Component068",
+    "material": "Steel",
+    "mass_g": 0.0025733463777910257,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.800000000000006,
+      0.3000000000000007,
+      1.788854381999835
+    ]
+  },
+  {
+    "name": "Triangular ramp 3.6.6 / split magnet 1",
+    "object": "Component069",
+    "material": "NdFeB",
+    "mass_g": 0.0028543296303086612,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.6991304888060368,
+      0.4499999999999993,
+      1.5874507866387546
+    ]
+  },
+  {
+    "name": "Triangular ramp 3.6.6 / split round pole 2",
+    "object": "Component070",
+    "material": "Steel",
+    "mass_g": 0.0025733463777910235,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.8000000000000007,
+      0.3000000000000007,
+      1.7888543819998315
+    ]
+  },
+  {
+    "name": "Triangular ramp 3.6.6 / split magnet 2",
+    "object": "Component071",
+    "material": "NdFeB",
+    "mass_g": 0.0028543296303086634,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.7000000000000002,
+      0.4499999999999993,
+      1.5874507866387546
+    ]
+  },
+  {
+    "name": "Triangular ramp 3.6.6 / hollow radial support",
+    "object": "Component072",
+    "material": "Titanium",
+    "mass_g": 0.003824422602721123,
+    "valid": true,
+    "category": "structure",
+    "status": "0.9 OD / 0.44 ID radial support; joint strength untested",
+    "dimensions_mm": [
+      1.5944075946486373,
+      1.9569267992731945,
+      1.5968064208490746
+    ]
+  },
+  {
+    "name": "Triangular ramp 4.-6.-6 / three sloped facets",
+    "object": "Component073",
+    "material": "PEEK",
+    "mass_g": 0.020531955488632105,
+    "valid": true,
+    "category": "dock",
+    "status": "Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test",
+    "dimensions_mm": [
+      5.900359959027264,
+      3.900000000000002,
+      5.863647157892487
+    ]
+  },
+  {
+    "name": "Triangular ramp 4.-6.-6 / split round pole 1",
+    "object": "Component074",
+    "material": "Steel",
+    "mass_g": 0.002573346377791026,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.800000000000006,
+      0.3000000000000007,
+      1.788854381999835
+    ]
+  },
+  {
+    "name": "Triangular ramp 4.-6.-6 / split magnet 1",
+    "object": "Component075",
+    "material": "NdFeB",
+    "mass_g": 0.0028543296303086612,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.6991304888060368,
+      0.4499999999999993,
+      1.5874507866387546
+    ]
+  },
+  {
+    "name": "Triangular ramp 4.-6.-6 / split round pole 2",
+    "object": "Component076",
+    "material": "Steel",
+    "mass_g": 0.002573346377791023,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.8000000000000007,
+      0.3000000000000007,
+      1.7888543819998315
+    ]
+  },
+  {
+    "name": "Triangular ramp 4.-6.-6 / split magnet 2",
+    "object": "Component077",
+    "material": "NdFeB",
+    "mass_g": 0.0028543296303086634,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.7000000000000002,
+      0.4499999999999993,
+      1.5874507866387546
+    ]
+  },
+  {
+    "name": "Triangular ramp 4.-6.-6 / hollow radial support",
+    "object": "Component078",
+    "material": "Titanium",
+    "mass_g": 0.003824422602721139,
+    "valid": true,
+    "category": "structure",
+    "status": "0.9 OD / 0.44 ID radial support; joint strength untested",
+    "dimensions_mm": [
+      1.594407594648641,
+      1.9569267992731945,
+      1.5968064208490746
+    ]
+  },
+  {
+    "name": "Triangular ramp 4.-6.6 / three sloped facets",
+    "object": "Component079",
+    "material": "PEEK",
+    "mass_g": 0.020531951643414485,
+    "valid": true,
+    "category": "dock",
+    "status": "Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test",
+    "dimensions_mm": [
+      5.900359959027263,
+      3.9000000000000012,
+      5.863647157892485
+    ]
+  },
+  {
+    "name": "Triangular ramp 4.-6.6 / split round pole 1",
+    "object": "Component080",
+    "material": "Steel",
+    "mass_g": 0.0025733463777910266,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.800000000000006,
+      0.3000000000000007,
+      1.788854381999835
+    ]
+  },
+  {
+    "name": "Triangular ramp 4.-6.6 / split magnet 1",
+    "object": "Component081",
+    "material": "NdFeB",
+    "mass_g": 0.0028543296303086612,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.6991304888060368,
+      0.4499999999999993,
+      1.5874507866387546
+    ]
+  },
+  {
+    "name": "Triangular ramp 4.-6.6 / split round pole 2",
+    "object": "Component082",
+    "material": "Steel",
+    "mass_g": 0.0025733463777910235,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.8000000000000007,
+      0.3000000000000007,
+      1.7888543819998315
+    ]
+  },
+  {
+    "name": "Triangular ramp 4.-6.6 / split magnet 2",
+    "object": "Component083",
+    "material": "NdFeB",
+    "mass_g": 0.0028543296303086634,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.7000000000000002,
+      0.4499999999999993,
+      1.5874507866387546
+    ]
+  },
+  {
+    "name": "Triangular ramp 4.-6.6 / hollow radial support",
+    "object": "Component084",
+    "material": "Titanium",
+    "mass_g": 0.003824428836026315,
+    "valid": true,
+    "category": "structure",
+    "status": "0.9 OD / 0.44 ID radial support; joint strength untested",
+    "dimensions_mm": [
+      1.5965645562444362,
+      1.9564726714409542,
+      1.5956560864323714
+    ]
+  },
+  {
+    "name": "Triangular ramp 4.6.-6 / three sloped facets",
+    "object": "Component085",
+    "material": "PEEK",
+    "mass_g": 0.021971608761819795,
+    "valid": true,
+    "category": "dock",
+    "status": "Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test",
+    "dimensions_mm": [
+      7.089829842175305,
+      3.900000000000002,
+      5.643590404174258
+    ]
+  },
+  {
+    "name": "Triangular ramp 4.6.-6 / split round pole 1",
+    "object": "Component086",
+    "material": "Steel",
+    "mass_g": 0.002573346377791026,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.800000000000006,
+      0.3000000000000007,
+      1.788854381999835
+    ]
+  },
+  {
+    "name": "Triangular ramp 4.6.-6 / split magnet 1",
+    "object": "Component087",
+    "material": "NdFeB",
+    "mass_g": 0.0028543296303086612,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.6991304888060368,
+      0.4499999999999993,
+      1.5874507866387546
+    ]
+  },
+  {
+    "name": "Triangular ramp 4.6.-6 / split round pole 2",
+    "object": "Component088",
+    "material": "Steel",
+    "mass_g": 0.002573346377791023,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.8000000000000007,
+      0.3000000000000007,
+      1.7888543819998315
+    ]
+  },
+  {
+    "name": "Triangular ramp 4.6.-6 / split magnet 2",
+    "object": "Component089",
+    "material": "NdFeB",
+    "mass_g": 0.0028543296303086634,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.7000000000000002,
+      0.4499999999999993,
+      1.5874507866387546
+    ]
+  },
+  {
+    "name": "Triangular ramp 4.6.-6 / hollow radial support",
+    "object": "Component090",
+    "material": "Titanium",
+    "mass_g": 0.003824424413417309,
+    "valid": true,
+    "category": "structure",
+    "status": "0.9 OD / 0.44 ID radial support; joint strength untested",
+    "dimensions_mm": [
+      1.5948958366319221,
+      1.956923484895004,
+      1.5954359299195282
+    ]
+  },
+  {
+    "name": "Triangular ramp 4.6.6 / three sloped facets",
+    "object": "Component091",
+    "material": "PEEK",
+    "mass_g": 0.021971620920488044,
+    "valid": true,
+    "category": "dock",
+    "status": "Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test",
+    "dimensions_mm": [
+      7.089829842175302,
+      3.9000000000000004,
+      5.643590404174256
+    ]
+  },
+  {
+    "name": "Triangular ramp 4.6.6 / split round pole 1",
+    "object": "Component092",
+    "material": "Steel",
+    "mass_g": 0.0025733463777910266,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.800000000000006,
+      0.3000000000000007,
+      1.788854381999835
+    ]
+  },
+  {
+    "name": "Triangular ramp 4.6.6 / split magnet 1",
+    "object": "Component093",
+    "material": "NdFeB",
+    "mass_g": 0.0028543296303086612,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.6991304888060368,
+      0.4499999999999993,
+      1.5874507866387546
+    ]
+  },
+  {
+    "name": "Triangular ramp 4.6.6 / split round pole 2",
+    "object": "Component094",
+    "material": "Steel",
+    "mass_g": 0.0025733463777910235,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.8000000000000007,
+      0.3000000000000007,
+      1.7888543819998315
+    ]
+  },
+  {
+    "name": "Triangular ramp 4.6.6 / split magnet 2",
+    "object": "Component095",
+    "material": "NdFeB",
+    "mass_g": 0.0028543296303086634,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.7000000000000002,
+      0.4499999999999993,
+      1.5874507866387546
+    ]
+  },
+  {
+    "name": "Triangular ramp 4.6.6 / hollow radial support",
+    "object": "Component096",
+    "material": "Titanium",
+    "mass_g": 0.003824422514862858,
+    "valid": true,
+    "category": "structure",
+    "status": "0.9 OD / 0.44 ID radial support; joint strength untested",
+    "dimensions_mm": [
+      1.5953193066799845,
+      1.956904156747422,
+      1.5949049656863679
+    ]
+  },
+  {
+    "name": "Triangular ramp 5.-6.-6 / three sloped facets",
+    "object": "Component097",
+    "material": "PEEK",
+    "mass_g": 0.02053194982622496,
+    "valid": true,
+    "category": "dock",
+    "status": "Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test",
+    "dimensions_mm": [
+      5.900359959027265,
+      5.863647157892487,
+      3.9000000000000004
+    ]
+  },
+  {
+    "name": "Triangular ramp 5.-6.-6 / split round pole 1",
+    "object": "Component098",
+    "material": "Steel",
+    "mass_g": 0.0025733463777910257,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.800000000000006,
+      1.7888543819998333,
+      0.3000000000000007
+    ]
+  },
+  {
+    "name": "Triangular ramp 5.-6.-6 / split magnet 1",
+    "object": "Component099",
+    "material": "NdFeB",
+    "mass_g": 0.0028543296303086617,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.6991304888060368,
+      1.5874507866387546,
+      0.4499999999999993
+    ]
+  },
+  {
+    "name": "Triangular ramp 5.-6.-6 / split round pole 2",
+    "object": "Component100",
+    "material": "Steel",
+    "mass_g": 0.0025733463777910235,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.8000000000000007,
+      1.7888543819998315,
+      0.3000000000000007
+    ]
+  },
+  {
+    "name": "Triangular ramp 5.-6.-6 / split magnet 2",
+    "object": "Component101",
+    "material": "NdFeB",
+    "mass_g": 0.0028543296303086634,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.7000000000000002,
+      1.5874507866387546,
+      0.4499999999999993
+    ]
+  },
+  {
+    "name": "Triangular ramp 5.-6.-6 / hollow radial support",
+    "object": "Component102",
+    "material": "Titanium",
+    "mass_g": 0.0038244255192818664,
+    "valid": true,
+    "category": "structure",
+    "status": "0.9 OD / 0.44 ID radial support; joint strength untested",
+    "dimensions_mm": [
+      1.5955519636236,
+      1.5958951711657097,
+      1.9566273181641574
+    ]
+  },
+  {
+    "name": "Triangular ramp 5.-6.6 / three sloped facets",
+    "object": "Component103",
+    "material": "PEEK",
+    "mass_g": 0.020531948593894785,
+    "valid": true,
+    "category": "dock",
+    "status": "Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test",
+    "dimensions_mm": [
+      5.900359959027265,
+      5.863647157892483,
+      3.9000000000000004
+    ]
+  },
+  {
+    "name": "Triangular ramp 5.-6.6 / split round pole 1",
+    "object": "Component104",
+    "material": "Steel",
+    "mass_g": 0.0025733463777910257,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.800000000000006,
+      1.7888543819998333,
+      0.3000000000000007
+    ]
+  },
+  {
+    "name": "Triangular ramp 5.-6.6 / split magnet 1",
+    "object": "Component105",
+    "material": "NdFeB",
+    "mass_g": 0.0028543296303086617,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.6991304888060368,
+      1.5874507866387546,
+      0.4499999999999993
+    ]
+  },
+  {
+    "name": "Triangular ramp 5.-6.6 / split round pole 2",
+    "object": "Component106",
+    "material": "Steel",
+    "mass_g": 0.0025733463777910235,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.8000000000000007,
+      1.7888543819998315,
+      0.3000000000000007
+    ]
+  },
+  {
+    "name": "Triangular ramp 5.-6.6 / split magnet 2",
+    "object": "Component107",
+    "material": "NdFeB",
+    "mass_g": 0.0028543296303086634,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.7000000000000002,
+      1.5874507866387546,
+      0.4499999999999993
+    ]
+  },
+  {
+    "name": "Triangular ramp 5.-6.6 / hollow radial support",
+    "object": "Component108",
+    "material": "Titanium",
+    "mass_g": 0.003824423661437904,
+    "valid": true,
+    "category": "structure",
+    "status": "0.9 OD / 0.44 ID radial support; joint strength untested",
+    "dimensions_mm": [
+      1.5958369313781287,
+      1.596220364412872,
+      1.9564435160223947
+    ]
+  },
+  {
+    "name": "Triangular ramp 5.6.-6 / three sloped facets",
+    "object": "Component109",
+    "material": "PEEK",
+    "mass_g": 0.02197160196819556,
+    "valid": true,
+    "category": "dock",
+    "status": "Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test",
+    "dimensions_mm": [
+      7.089829842175305,
+      5.643590404174258,
+      3.9000000000000004
+    ]
+  },
+  {
+    "name": "Triangular ramp 5.6.-6 / split round pole 1",
+    "object": "Component110",
+    "material": "Steel",
+    "mass_g": 0.0025733463777910257,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.800000000000006,
+      1.7888543819998333,
+      0.3000000000000007
+    ]
+  },
+  {
+    "name": "Triangular ramp 5.6.-6 / split magnet 1",
+    "object": "Component111",
+    "material": "NdFeB",
+    "mass_g": 0.0028543296303086617,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.6991304888060368,
+      1.5874507866387546,
+      0.4499999999999993
+    ]
+  },
+  {
+    "name": "Triangular ramp 5.6.-6 / split round pole 2",
+    "object": "Component112",
+    "material": "Steel",
+    "mass_g": 0.0025733463777910235,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.8000000000000007,
+      1.7888543819998315,
+      0.3000000000000007
+    ]
+  },
+  {
+    "name": "Triangular ramp 5.6.-6 / split magnet 2",
+    "object": "Component113",
+    "material": "NdFeB",
+    "mass_g": 0.0028543296303086634,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.7000000000000002,
+      1.5874507866387546,
+      0.4499999999999993
+    ]
+  },
+  {
+    "name": "Triangular ramp 5.6.-6 / hollow radial support",
+    "object": "Component114",
+    "material": "Titanium",
+    "mass_g": 0.0038244254608650677,
+    "valid": true,
+    "category": "structure",
+    "status": "0.9 OD / 0.44 ID radial support; joint strength untested",
+    "dimensions_mm": [
+      1.595938442552793,
+      1.5963411152105902,
+      1.9562523520412807
+    ]
+  },
+  {
+    "name": "Triangular ramp 5.6.6 / three sloped facets",
+    "object": "Component115",
+    "material": "PEEK",
+    "mass_g": 0.021971627173123783,
+    "valid": true,
+    "category": "dock",
+    "status": "Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test",
+    "dimensions_mm": [
+      7.089829842175299,
+      5.643590404174257,
+      3.9000000000000004
+    ]
+  },
+  {
+    "name": "Triangular ramp 5.6.6 / split round pole 1",
+    "object": "Component116",
+    "material": "Steel",
+    "mass_g": 0.0025733463777910257,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.800000000000006,
+      1.7888543819998333,
+      0.3000000000000007
+    ]
+  },
+  {
+    "name": "Triangular ramp 5.6.6 / split magnet 1",
+    "object": "Component117",
+    "material": "NdFeB",
+    "mass_g": 0.0028543296303086617,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.6991304888060368,
+      1.5874507866387546,
+      0.4499999999999993
+    ]
+  },
+  {
+    "name": "Triangular ramp 5.6.6 / split round pole 2",
+    "object": "Component118",
+    "material": "Steel",
+    "mass_g": 0.0025733463777910235,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.8000000000000007,
+      1.7888543819998315,
+      0.3000000000000007
+    ]
+  },
+  {
+    "name": "Triangular ramp 5.6.6 / split magnet 2",
+    "object": "Component119",
+    "material": "NdFeB",
+    "mass_g": 0.0028543296303086634,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.7000000000000002,
+      1.5874507866387546,
+      0.4499999999999993
+    ]
+  },
+  {
+    "name": "Triangular ramp 5.6.6 / hollow radial support",
+    "object": "Component120",
+    "material": "Titanium",
+    "mass_g": 0.003824424208438353,
+    "valid": true,
+    "category": "structure",
+    "status": "0.9 OD / 0.44 ID radial support; joint strength untested",
+    "dimensions_mm": [
+      1.5958888763387034,
+      1.5962032607605572,
+      1.956498502342372
+    ]
+  },
+  {
+    "name": "Triangular ramp 6.-6.-6 / three sloped facets",
+    "object": "Component121",
+    "material": "PEEK",
+    "mass_g": 0.020531951995119802,
+    "valid": true,
+    "category": "dock",
+    "status": "Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test",
+    "dimensions_mm": [
+      5.900359959027265,
+      5.863647157892487,
+      3.9000000000000004
+    ]
+  },
+  {
+    "name": "Triangular ramp 6.-6.-6 / split round pole 1",
+    "object": "Component122",
+    "material": "Steel",
+    "mass_g": 0.0025733463777910257,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.800000000000006,
+      1.7888543819998333,
+      0.3000000000000007
+    ]
+  },
+  {
+    "name": "Triangular ramp 6.-6.-6 / split magnet 1",
+    "object": "Component123",
+    "material": "NdFeB",
+    "mass_g": 0.0028543296303086617,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.6991304888060368,
+      1.5874507866387546,
+      0.4499999999999993
+    ]
+  },
+  {
+    "name": "Triangular ramp 6.-6.-6 / split round pole 2",
+    "object": "Component124",
+    "material": "Steel",
+    "mass_g": 0.0025733463777910235,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.8000000000000007,
+      1.7888543819998315,
+      0.3000000000000007
+    ]
+  },
+  {
+    "name": "Triangular ramp 6.-6.-6 / split magnet 2",
+    "object": "Component125",
+    "material": "NdFeB",
+    "mass_g": 0.0028543296303086634,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.7000000000000002,
+      1.5874507866387546,
+      0.4499999999999993
+    ]
+  },
+  {
+    "name": "Triangular ramp 6.-6.-6 / hollow radial support",
+    "object": "Component126",
+    "material": "Titanium",
+    "mass_g": 0.0038244236600575503,
+    "valid": true,
+    "category": "structure",
+    "status": "0.9 OD / 0.44 ID radial support; joint strength untested",
+    "dimensions_mm": [
+      1.595551963623592,
+      1.595895171165708,
+      1.9566273181641574
+    ]
+  },
+  {
+    "name": "Triangular ramp 6.-6.6 / three sloped facets",
+    "object": "Component127",
+    "material": "PEEK",
+    "mass_g": 0.0205319464250001,
+    "valid": true,
+    "category": "dock",
+    "status": "Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test",
+    "dimensions_mm": [
+      5.900359959027265,
+      5.863647157892483,
+      3.9000000000000004
+    ]
+  },
+  {
+    "name": "Triangular ramp 6.-6.6 / split round pole 1",
+    "object": "Component128",
+    "material": "Steel",
+    "mass_g": 0.0025733463777910257,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.800000000000006,
+      1.7888543819998333,
+      0.3000000000000007
+    ]
+  },
+  {
+    "name": "Triangular ramp 6.-6.6 / split magnet 1",
+    "object": "Component129",
+    "material": "NdFeB",
+    "mass_g": 0.0028543296303086617,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.6991304888060368,
+      1.5874507866387546,
+      0.4499999999999993
+    ]
+  },
+  {
+    "name": "Triangular ramp 6.-6.6 / split round pole 2",
+    "object": "Component130",
+    "material": "Steel",
+    "mass_g": 0.0025733463777910235,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.8000000000000007,
+      1.7888543819998315,
+      0.3000000000000007
+    ]
+  },
+  {
+    "name": "Triangular ramp 6.-6.6 / split magnet 2",
+    "object": "Component131",
+    "material": "NdFeB",
+    "mass_g": 0.0028543296303086634,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.7000000000000002,
+      1.5874507866387546,
+      0.4499999999999993
+    ]
+  },
+  {
+    "name": "Triangular ramp 6.-6.6 / hollow radial support",
+    "object": "Component132",
+    "material": "Titanium",
+    "mass_g": 0.0038244255200870626,
+    "valid": true,
+    "category": "structure",
+    "status": "0.9 OD / 0.44 ID radial support; joint strength untested",
+    "dimensions_mm": [
+      1.5958369313781269,
+      1.5962203644128623,
+      1.9564435160223965
+    ]
+  },
+  {
+    "name": "Triangular ramp 6.6.-6 / three sloped facets",
+    "object": "Component133",
+    "material": "PEEK",
+    "mass_g": 0.021971618822808358,
+    "valid": true,
+    "category": "dock",
+    "status": "Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test",
+    "dimensions_mm": [
+      7.089829842175305,
+      5.643590404174258,
+      3.9000000000000004
+    ]
+  },
+  {
+    "name": "Triangular ramp 6.6.-6 / split round pole 1",
+    "object": "Component134",
+    "material": "Steel",
+    "mass_g": 0.0025733463777910257,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.800000000000006,
+      1.7888543819998333,
+      0.3000000000000007
+    ]
+  },
+  {
+    "name": "Triangular ramp 6.6.-6 / split magnet 1",
+    "object": "Component135",
+    "material": "NdFeB",
+    "mass_g": 0.0028543296303086617,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.6991304888060368,
+      1.5874507866387546,
+      0.4499999999999993
+    ]
+  },
+  {
+    "name": "Triangular ramp 6.6.-6 / split round pole 2",
+    "object": "Component136",
+    "material": "Steel",
+    "mass_g": 0.0025733463777910235,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.8000000000000007,
+      1.7888543819998315,
+      0.3000000000000007
+    ]
+  },
+  {
+    "name": "Triangular ramp 6.6.-6 / split magnet 2",
+    "object": "Component137",
+    "material": "NdFeB",
+    "mass_g": 0.0028543296303086634,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.7000000000000002,
+      1.5874507866387546,
+      0.4499999999999993
+    ]
+  },
+  {
+    "name": "Triangular ramp 6.6.-6 / hollow radial support",
+    "object": "Component138",
+    "material": "Titanium",
+    "mass_g": 0.0038244243409532195,
+    "valid": true,
+    "category": "structure",
+    "status": "0.9 OD / 0.44 ID radial support; joint strength untested",
+    "dimensions_mm": [
+      1.5959384425527938,
+      1.5963411152105893,
+      1.9562523520412878
+    ]
+  },
+  {
+    "name": "Triangular ramp 6.6.6 / three sloped facets",
+    "object": "Component139",
+    "material": "PEEK",
+    "mass_g": 0.021971612250338928,
+    "valid": true,
+    "category": "dock",
+    "status": "Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test",
+    "dimensions_mm": [
+      7.089829842175299,
+      5.643590404174258,
+      3.9000000000000004
+    ]
+  },
+  {
+    "name": "Triangular ramp 6.6.6 / split round pole 1",
+    "object": "Component140",
+    "material": "Steel",
+    "mass_g": 0.0025733463777910257,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.800000000000006,
+      1.7888543819998333,
+      0.3000000000000007
+    ]
+  },
+  {
+    "name": "Triangular ramp 6.6.6 / split magnet 1",
+    "object": "Component141",
+    "material": "NdFeB",
+    "mass_g": 0.0028543296303086617,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.6991304888060368,
+      1.5874507866387546,
+      0.4499999999999993
+    ]
+  },
+  {
+    "name": "Triangular ramp 6.6.6 / split round pole 2",
+    "object": "Component142",
+    "material": "Steel",
+    "mass_g": 0.0025733463777910235,
+    "valid": true,
+    "category": "dock",
+    "status": "0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated",
+    "dimensions_mm": [
+      0.8000000000000007,
+      1.7888543819998315,
+      0.3000000000000007
+    ]
+  },
+  {
+    "name": "Triangular ramp 6.6.6 / split magnet 2",
+    "object": "Component143",
+    "material": "NdFeB",
+    "mass_g": 0.0028543296303086634,
+    "valid": true,
+    "category": "dock",
+    "status": "0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component",
+    "dimensions_mm": [
+      0.7000000000000002,
+      1.5874507866387546,
+      0.4499999999999993
+    ]
+  },
+  {
+    "name": "Triangular ramp 6.6.6 / hollow radial support",
+    "object": "Component144",
+    "material": "Titanium",
+    "mass_g": 0.003824425460979514,
+    "valid": true,
+    "category": "structure",
+    "status": "0.9 OD / 0.44 ID radial support; joint strength untested",
+    "dimensions_mm": [
+      1.5958888763387034,
+      1.5962032607605616,
+      1.9564985023423702
+    ]
+  },
+  {
+    "name": "KYOCERA AVX SCCQ12B105MRB / 1 F 2.7 V",
+    "object": "Component145",
+    "material": "CapComposite",
+    "mass_g": 0.7,
+    "valid": true,
+    "category": "electronics",
+    "status": "Actual 6.3 x 12 mm body; 0.8 F min / 1.5 ohm DC ESR; lead bends unmodeled",
+    "dimensions_mm": [
+      12.0,
+      6.3,
+      6.300000000000001
+    ]
+  },
+  {
+    "name": "Wurth 760308101208 coil / maximum stack envelope",
+    "object": "Component146",
+    "material": "Copper",
+    "mass_g": 0.2,
+    "valid": true,
+    "category": "electronics",
+    "status": "10.3 +/-0.3 mm ferrite OD, <=1.68 mm stack; copper/ferrite composite envelope; nominal mass estimate",
+    "dimensions_mm": [
+      10.592488287086837,
+      10.596243477908597,
+      1.6799999999999997
+    ]
+  },
+  {
+    "name": "20 mm circular 4 layer motherboard",
+    "object": "Component147",
+    "material": "FR4",
+    "mass_g": 0.3487167845484671,
+    "valid": true,
+    "category": "electronics",
+    "status": "Package placement only; unrouted and no pin-level ERC/DRC",
+    "dimensions_mm": [
+      19.986740898848304,
+      19.99336935028626,
+      0.6000000000000001
+    ]
+  },
+  {
+    "name": "U1 / STM32G431CBU6",
+    "object": "Component148",
+    "material": "PackageComposite",
+    "mass_g": 0.05389999999999998,
+    "valid": true,
+    "category": "electronics",
+    "status": "supplier body envelope; land pattern / routing unverified",
+    "dimensions_mm": [
+      7.0,
+      7.0,
+      0.5499999999999998
+    ]
+  },
+  {
+    "name": "U2 / BQ51013B RHL",
+    "object": "Component149",
+    "material": "PackageComposite",
+    "mass_g": 0.0315,
+    "valid": true,
+    "category": "electronics",
+    "status": "supplier body envelope; land pattern / routing unverified",
+    "dimensions_mm": [
+      4.5,
+      3.5,
+      1.0
+    ]
+  },
+  {
+    "name": "U3 / TPS63031 DSK",
+    "object": "Component150",
+    "material": "PackageComposite",
+    "mass_g": 0.009999999999999998,
+    "valid": true,
+    "category": "electronics",
+    "status": "supplier body envelope; land pattern / routing unverified",
+    "dimensions_mm": [
+      2.5,
+      2.5,
+      0.7999999999999998
+    ]
+  },
+  {
+    "name": "L1 / 2.2 uH power inductor reservation",
+    "object": "Component151",
+    "material": "PackageComposite",
+    "mass_g": 0.012499999999999997,
+    "valid": true,
+    "category": "electronics",
+    "status": "value/package target; exact order code and saturation need selection",
+    "dimensions_mm": [
+      2.5,
+      2.5,
+      1.0
+    ]
+  },
+  {
+    "name": "U4 / BQ25173 DSG",
+    "object": "Component152",
+    "material": "PackageComposite",
+    "mass_g": 0.006399999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "supplier body envelope; land pattern / routing unverified",
+    "dimensions_mm": [
+      2.0,
+      2.0,
+      0.7999999999999998
+    ]
+  },
+  {
+    "name": "U5 / LM66100 DCK",
+    "object": "Component153",
+    "material": "PackageComposite",
+    "mass_g": 0.00924,
+    "valid": true,
+    "category": "electronics",
+    "status": "supplier body envelope; land pattern / routing unverified",
+    "dimensions_mm": [
+      2.1,
+      2.0,
+      1.1
+    ]
+  },
+  {
+    "name": "U6 / LM66100 DCK",
+    "object": "Component154",
+    "material": "PackageComposite",
+    "mass_g": 0.00924,
+    "valid": true,
+    "category": "electronics",
+    "status": "supplier body envelope; land pattern / routing unverified",
+    "dimensions_mm": [
+      2.1,
+      2.0,
+      1.1
+    ]
+  },
+  {
+    "name": "U7 / TPS62840 DLCR",
+    "object": "Component155",
+    "material": "PackageComposite",
+    "mass_g": 0.004799999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "750 mA motor buck candidate; circuit not routed",
+    "dimensions_mm": [
+      1.5,
+      2.0,
+      0.7999999999999998
+    ]
+  },
+  {
+    "name": "L2 / 2.2 uH motor inductor reservation",
+    "object": "Component156",
+    "material": "PackageComposite",
+    "mass_g": 0.012499999999999997,
+    "valid": true,
+    "category": "electronics",
+    "status": "current/inductance target; exact order code unselected",
+    "dimensions_mm": [
+      2.5,
+      2.5,
+      1.0
+    ]
+  },
+  {
+    "name": "U8 / Motor isolation switch reservation",
+    "object": "Component157",
+    "material": "PackageComposite",
+    "mass_g": 0.0035999999999999995,
+    "valid": true,
+    "category": "electronics",
+    "status": "current-limit cutoff implementation not selected",
+    "dimensions_mm": [
+      1.5,
+      1.5,
+      0.7999999999999998
+    ]
+  },
+  {
+    "name": "U9 / DRV8311P RRW",
+    "object": "Component158",
+    "material": "PackageComposite",
+    "mass_g": 0.014400000000000001,
+    "valid": true,
+    "category": "electronics",
+    "status": "supplier body envelope; land pattern / routing unverified",
+    "dimensions_mm": [
+      3.0,
+      3.0,
+      0.8
+    ]
+  },
+  {
+    "name": "U10 / DRV8311P RRW",
+    "object": "Component159",
+    "material": "PackageComposite",
+    "mass_g": 0.014400000000000001,
+    "valid": true,
+    "category": "electronics",
+    "status": "supplier body envelope; land pattern / routing unverified",
+    "dimensions_mm": [
+      3.0,
+      3.0,
+      0.8
+    ]
+  },
+  {
+    "name": "U11 / DRV8311P RRW",
+    "object": "Component160",
+    "material": "PackageComposite",
+    "mass_g": 0.014400000000000001,
+    "valid": true,
+    "category": "electronics",
+    "status": "supplier body envelope; land pattern / routing unverified",
+    "dimensions_mm": [
+      3.0,
+      3.0,
+      0.8
+    ]
+  },
+  {
+    "name": "U12 / SN74AXC8T245 RJW",
+    "object": "Component161",
+    "material": "PackageComposite",
+    "mass_g": 0.0096,
+    "valid": true,
+    "category": "electronics",
+    "status": "Ioff / supply isolation candidate; pin routing and OE sequence unverified",
+    "dimensions_mm": [
+      4.0,
+      2.0,
+      0.6
+    ]
+  },
+  {
+    "name": "U13 / SN74AXC8T245 RJW",
+    "object": "Component162",
+    "material": "PackageComposite",
+    "mass_g": 0.0096,
+    "valid": true,
+    "category": "electronics",
+    "status": "Ioff / supply isolation candidate; pin routing and OE sequence unverified",
+    "dimensions_mm": [
+      4.0,
+      2.0,
+      0.6
+    ]
+  },
+  {
+    "name": "P1 / 0402 passive allocation",
+    "object": "Component163",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P2 / 0402 passive allocation",
+    "object": "Component164",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P3 / 0402 passive allocation",
+    "object": "Component165",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P4 / 0402 passive allocation",
+    "object": "Component166",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P5 / 0402 passive allocation",
+    "object": "Component167",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P6 / 0402 passive allocation",
+    "object": "Component168",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P7 / 0402 passive allocation",
+    "object": "Component169",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P8 / 0402 passive allocation",
+    "object": "Component170",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P9 / 0402 passive allocation",
+    "object": "Component171",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P10 / 0402 passive allocation",
+    "object": "Component172",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P11 / 0402 passive allocation",
+    "object": "Component173",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P12 / 0402 passive allocation",
+    "object": "Component174",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P13 / 0402 passive allocation",
+    "object": "Component175",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P14 / 0402 passive allocation",
+    "object": "Component176",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P15 / 0402 passive allocation",
+    "object": "Component177",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P16 / 0402 passive allocation",
+    "object": "Component178",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P17 / 0402 passive allocation",
+    "object": "Component179",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P18 / 0402 passive allocation",
+    "object": "Component180",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P19 / 0402 passive allocation",
+    "object": "Component181",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P20 / 0402 passive allocation",
+    "object": "Component182",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P21 / 0402 passive allocation",
+    "object": "Component183",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P22 / 0402 passive allocation",
+    "object": "Component184",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P23 / 0402 passive allocation",
+    "object": "Component185",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P24 / 0402 passive allocation",
+    "object": "Component186",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P25 / 0402 passive allocation",
+    "object": "Component187",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P26 / 0402 passive allocation",
+    "object": "Component188",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P27 / 0402 passive allocation",
+    "object": "Component189",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P28 / 0402 passive allocation",
+    "object": "Component190",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P29 / 0402 passive allocation",
+    "object": "Component191",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P30 / 0402 passive allocation",
+    "object": "Component192",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P31 / 0402 passive allocation",
+    "object": "Component193",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P32 / 0402 passive allocation",
+    "object": "Component194",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P33 / 0402 passive allocation",
+    "object": "Component195",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P34 / 0402 passive allocation",
+    "object": "Component196",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P35 / 0402 passive allocation",
+    "object": "Component197",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P36 / 0402 passive allocation",
+    "object": "Component198",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P37 / 0402 passive allocation",
+    "object": "Component199",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P38 / 0402 passive allocation",
+    "object": "Component200",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P39 / 0402 passive allocation",
+    "object": "Component201",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P40 / 0402 passive allocation",
+    "object": "Component202",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P41 / 0402 passive allocation",
+    "object": "Component203",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P42 / 0402 passive allocation",
+    "object": "Component204",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P43 / 0402 passive allocation",
+    "object": "Component205",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P44 / 0402 passive allocation",
+    "object": "Component206",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P45 / 0402 passive allocation",
+    "object": "Component207",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P46 / 0402 passive allocation",
+    "object": "Component208",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P47 / 0402 passive allocation",
+    "object": "Component209",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P48 / 0402 passive allocation",
+    "object": "Component210",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P49 / 0402 passive allocation",
+    "object": "Component211",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P50 / 0402 passive allocation",
+    "object": "Component212",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P51 / 0402 passive allocation",
+    "object": "Component213",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P52 / 0402 passive allocation",
+    "object": "Component214",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P53 / 0402 passive allocation",
+    "object": "Component215",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P54 / 0402 passive allocation",
+    "object": "Component216",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P55 / 0402 passive allocation",
+    "object": "Component217",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "P56 / 0402 passive allocation",
+    "object": "Component218",
+    "material": "PackageComposite",
+    "mass_g": 0.0004999999999999999,
+    "valid": true,
+    "category": "electronics",
+    "status": "role/value/order code not all frozen; NOT a validated netlist",
+    "dimensions_mm": [
+      1.0,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "0308H003B BLDC motor 1",
+    "object": "Component219",
+    "material": "PackageComposite",
+    "mass_g": 0.35,
+    "valid": true,
+    "category": "mechanism",
+    "status": "3 mm dia x 8.4; supplier 0.35 g; rated torque 0.013 mNm; shaft/mount require supplier CAD",
+    "dimensions_mm": [
+      8.4,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "name": "03B 125:1 gearhead 1",
+    "object": "Component220",
+    "material": "Steel",
+    "mass_g": 0.18,
+    "valid": true,
+    "category": "mechanism",
+    "status": "3.4 dia x 6; 0.18 g; 0.88 mNm continuous / 15000 rpm input max; supplier assembled-combo confirmation required",
+    "dimensions_mm": [
+      6.0,
+      3.397928811864926,
+      3.395858885441702
+    ]
+  },
+  {
+    "name": "Geared output shaft 1",
+    "object": "Component221",
+    "material": "Steel",
+    "mass_g": 0.001331721125856713,
+    "valid": true,
+    "category": "mechanism",
+    "status": "0.6 mm shaft proxy; confirm real output-shaft drawing",
+    "dimensions_mm": [
+      0.5999999999999996,
+      0.5988160370569631,
+      0.5999999999999996
+    ]
+  },
+  {
+    "name": "20 tooth m0.1 input pinion 1",
+    "object": "Component222",
+    "material": "Steel",
+    "mass_g": 0.011852490115291348,
+    "valid": true,
+    "category": "mechanism",
+    "status": "20 degree involute approximation; 0.5 face, 0.01 mm tooth backlash reduction; custom unqualified",
+    "dimensions_mm": [
+      0.5000000000000009,
+      2.1999999999999997,
+      2.1999999999999997
+    ]
+  },
+  {
+    "name": "25 tooth m0.1 reduction gear 1",
+    "object": "Component223",
+    "material": "Steel",
+    "mass_g": 0.018700055778801676,
+    "valid": true,
+    "category": "mechanism",
+    "status": "1.25:1 extra reduction; 2.25 mm center distance; custom manufacture/wear unqualified",
+    "dimensions_mm": [
+      0.5000000000000009,
+      2.692844736171179,
+      2.69782169051099
+    ]
+  },
+  {
+    "name": "Final tendon capstan 1",
+    "object": "Component224",
+    "material": "Titanium",
+    "mass_g": 0.0035628173965831134,
+    "valid": true,
+    "category": "mechanism",
+    "status": "0.8 mm tendon pitch radius; tendon, brake and captured hinge routing unresolved",
+    "dimensions_mm": [
+      0.40000000000000036,
+      1.5976534621617982,
+      1.5999999999999996
+    ]
+  },
+  {
+    "name": "0308H003B BLDC motor 2",
+    "object": "Component225",
+    "material": "PackageComposite",
+    "mass_g": 0.35,
+    "valid": true,
+    "category": "mechanism",
+    "status": "3 mm dia x 8.4; supplier 0.35 g; rated torque 0.013 mNm; shaft/mount require supplier CAD",
+    "dimensions_mm": [
+      8.4,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "name": "03B 125:1 gearhead 2",
+    "object": "Component226",
+    "material": "Steel",
+    "mass_g": 0.18,
+    "valid": true,
+    "category": "mechanism",
+    "status": "3.4 dia x 6; 0.18 g; 0.88 mNm continuous / 15000 rpm input max; supplier assembled-combo confirmation required",
+    "dimensions_mm": [
+      6.0,
+      3.3979288118649253,
+      3.395858885441702
+    ]
+  },
+  {
+    "name": "Geared output shaft 2",
+    "object": "Component227",
+    "material": "Steel",
+    "mass_g": 0.0013317211258567128,
+    "valid": true,
+    "category": "mechanism",
+    "status": "0.6 mm shaft proxy; confirm real output-shaft drawing",
+    "dimensions_mm": [
+      0.5999999999999996,
+      0.5988160370569631,
+      0.5999999999999996
+    ]
+  },
+  {
+    "name": "20 tooth m0.1 input pinion 2",
+    "object": "Component228",
+    "material": "Steel",
+    "mass_g": 0.011852490115291327,
+    "valid": true,
+    "category": "mechanism",
+    "status": "20 degree involute approximation; 0.5 face, 0.01 mm tooth backlash reduction; custom unqualified",
+    "dimensions_mm": [
+      0.5000000000000009,
+      2.2,
+      2.1999999999999997
+    ]
+  },
+  {
+    "name": "25 tooth m0.1 reduction gear 2",
+    "object": "Component229",
+    "material": "Steel",
+    "mass_g": 0.018700055778801676,
+    "valid": true,
+    "category": "mechanism",
+    "status": "1.25:1 extra reduction; 2.25 mm center distance; custom manufacture/wear unqualified",
+    "dimensions_mm": [
+      0.5000000000000009,
+      2.692844736171179,
+      2.69782169051099
+    ]
+  },
+  {
+    "name": "Final tendon capstan 2",
+    "object": "Component230",
+    "material": "Titanium",
+    "mass_g": 0.0035628173965831134,
+    "valid": true,
+    "category": "mechanism",
+    "status": "0.8 mm tendon pitch radius; tendon, brake and captured hinge routing unresolved",
+    "dimensions_mm": [
+      0.40000000000000036,
+      1.5976534621617982,
+      1.5999999999999996
+    ]
+  },
+  {
+    "name": "0308H003B BLDC motor 3",
+    "object": "Component231",
+    "material": "PackageComposite",
+    "mass_g": 0.35,
+    "valid": true,
+    "category": "mechanism",
+    "status": "3 mm dia x 8.4; supplier 0.35 g; rated torque 0.013 mNm; shaft/mount require supplier CAD",
+    "dimensions_mm": [
+      8.4,
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "name": "Direct slide capstan / 0.5 mm pitch radius",
+    "object": "Component232",
+    "material": "Titanium",
+    "mass_g": 0.0020875883183104167,
+    "valid": true,
+    "category": "mechanism",
+    "status": "Direct motor drive; slip, bearing and tendon fatigue untested",
+    "dimensions_mm": [
+      0.5999999999999996,
+      0.9983081582712678,
+      1.0
+    ]
+  },
+  {
+    "name": "Captured hinge pin / 0.8 dia x 3",
+    "object": "Component233",
+    "material": "Steel",
+    "mass_g": 0.01183752111872634,
+    "valid": true,
+    "category": "mechanism",
+    "status": "Pin candidate; 0.1 N force load gives low shear stress, bearing/retention still unqualified",
+    "dimensions_mm": [
+      3.0,
+      0.8000000000000007,
+      0.7999999999999999
+    ]
+  },
+  {
+    "name": "Captured pin bearing sleeve",
+    "object": "Component234",
+    "material": "Titanium",
+    "mass_g": 0.015045666527726835,
+    "valid": true,
+    "category": "mechanism",
+    "status": "1.5 OD / 0.84 ID / 2.8 length; no demonstrated automatic transfer latch",
+    "dimensions_mm": [
+      2.8,
+      1.5,
+      1.5
+    ]
+  }
+]

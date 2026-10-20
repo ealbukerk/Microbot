@@ -1,0 +1,72 @@
+ref,name,w,h,t,x,y,side,status
+U1,STM32G431CBU6,7,7,0.55,0,0,front,supplier body envelope; land pattern / routing unverified
+U2,BQ51013B RHL,4.5,3.5,1,0,6.0,front,supplier body envelope; land pattern / routing unverified
+U3,TPS63031 DSK,2.5,2.5,0.8,5.3,0.5,front,supplier body envelope; land pattern / routing unverified
+L1,2.2 uH power inductor reservation,2.5,2.5,1,5.3,3.8,front,value/package target; exact order code and saturation need selection
+U4,BQ25173 DSG,2,2,0.8,-5,1,front,supplier body envelope; land pattern / routing unverified
+U5,LM66100 DCK,2.1,2,1.1,-5,-2,front,supplier body envelope; land pattern / routing unverified
+U6,LM66100 DCK,2.1,2,1.1,-5,-5,front,supplier body envelope; land pattern / routing unverified
+U7,TPS62840 DLCR,1.5,2,0.8,0,-5,front,750 mA motor buck candidate; circuit not routed
+L2,2.2 uH motor inductor reservation,2.5,2.5,1,3.3,-5,front,current/inductance target; exact order code unselected
+U8,Motor isolation switch reservation,1.5,1.5,0.8,6,-3,front,current-limit cutoff implementation not selected
+U9,DRV8311P RRW,3,3,0.8,-3.5,5.5,back,supplier body envelope; land pattern / routing unverified
+U10,DRV8311P RRW,3,3,0.8,0,5.5,back,supplier body envelope; land pattern / routing unverified
+U11,DRV8311P RRW,3,3,0.8,3.5,5.5,back,supplier body envelope; land pattern / routing unverified
+U12,SN74AXC8T245 RJW,4,2,0.6,-3,-6,back,Ioff / supply isolation candidate; pin routing and OE sequence unverified
+U13,SN74AXC8T245 RJW,4,2,0.6,3,-6,back,Ioff / supply isolation candidate; pin routing and OE sequence unverified
+P1,0402 passive allocation,1,0.5,0.5,-2.25,-9.0,front,role/value/order code not all frozen; NOT a validated netlist
+P2,0402 passive allocation,1,0.5,0.5,-0.75,-9.0,front,role/value/order code not all frozen; NOT a validated netlist
+P3,0402 passive allocation,1,0.5,0.5,0.75,-9.0,front,role/value/order code not all frozen; NOT a validated netlist
+P4,0402 passive allocation,1,0.5,0.5,2.25,-9.0,front,role/value/order code not all frozen; NOT a validated netlist
+P5,0402 passive allocation,1,0.5,0.5,-3.75,-8.25,front,role/value/order code not all frozen; NOT a validated netlist
+P6,0402 passive allocation,1,0.5,0.5,-2.25,-8.25,front,role/value/order code not all frozen; NOT a validated netlist
+P7,0402 passive allocation,1,0.5,0.5,-0.75,-8.25,front,role/value/order code not all frozen; NOT a validated netlist
+P8,0402 passive allocation,1,0.5,0.5,0.75,-8.25,front,role/value/order code not all frozen; NOT a validated netlist
+P9,0402 passive allocation,1,0.5,0.5,2.25,-8.25,front,role/value/order code not all frozen; NOT a validated netlist
+P10,0402 passive allocation,1,0.5,0.5,3.75,-8.25,front,role/value/order code not all frozen; NOT a validated netlist
+P11,0402 passive allocation,1,0.5,0.5,-5.25,-7.5,front,role/value/order code not all frozen; NOT a validated netlist
+P12,0402 passive allocation,1,0.5,0.5,-3.75,-7.5,front,role/value/order code not all frozen; NOT a validated netlist
+P13,0402 passive allocation,1,0.5,0.5,-2.25,-7.5,front,role/value/order code not all frozen; NOT a validated netlist
+P14,0402 passive allocation,1,0.5,0.5,-0.75,-7.5,front,role/value/order code not all frozen; NOT a validated netlist
+P15,0402 passive allocation,1,0.5,0.5,0.75,-7.5,front,role/value/order code not all frozen; NOT a validated netlist
+P16,0402 passive allocation,1,0.5,0.5,2.25,-7.5,front,role/value/order code not all frozen; NOT a validated netlist
+P17,0402 passive allocation,1,0.5,0.5,3.75,-7.5,front,role/value/order code not all frozen; NOT a validated netlist
+P18,0402 passive allocation,1,0.5,0.5,5.25,-7.5,front,role/value/order code not all frozen; NOT a validated netlist
+P19,0402 passive allocation,1,0.5,0.5,-6.0,-6.75,front,role/value/order code not all frozen; NOT a validated netlist
+P20,0402 passive allocation,1,0.5,0.5,-4.5,-6.75,front,role/value/order code not all frozen; NOT a validated netlist
+P21,0402 passive allocation,1,0.5,0.5,-3.0,-6.75,front,role/value/order code not all frozen; NOT a validated netlist
+P22,0402 passive allocation,1,0.5,0.5,-1.5,-6.75,front,role/value/order code not all frozen; NOT a validated netlist
+P23,0402 passive allocation,1,0.5,0.5,0.0,-6.75,front,role/value/order code not all frozen; NOT a validated netlist
+P24,0402 passive allocation,1,0.5,0.5,1.5,-6.75,front,role/value/order code not all frozen; NOT a validated netlist
+P25,0402 passive allocation,1,0.5,0.5,3.0,-6.75,front,role/value/order code not all frozen; NOT a validated netlist
+P26,0402 passive allocation,1,0.5,0.5,4.5,-6.75,front,role/value/order code not all frozen; NOT a validated netlist
+P27,0402 passive allocation,1,0.5,0.5,6.0,-6.75,front,role/value/order code not all frozen; NOT a validated netlist
+P28,0402 passive allocation,1,0.5,0.5,-3.0,-6.0,front,role/value/order code not all frozen; NOT a validated netlist
+P29,0402 passive allocation,1,0.5,0.5,-1.5,-6.0,front,role/value/order code not all frozen; NOT a validated netlist
+P30,0402 passive allocation,1,0.5,0.5,6.0,-6.0,front,role/value/order code not all frozen; NOT a validated netlist
+P31,0402 passive allocation,1,0.5,0.5,-3.0,-5.25,front,role/value/order code not all frozen; NOT a validated netlist
+P32,0402 passive allocation,1,0.5,0.5,-1.5,-5.25,front,role/value/order code not all frozen; NOT a validated netlist
+P33,0402 passive allocation,1,0.5,0.5,6.0,-5.25,front,role/value/order code not all frozen; NOT a validated netlist
+P34,0402 passive allocation,1,0.5,0.5,-7.5,-4.5,front,role/value/order code not all frozen; NOT a validated netlist
+P35,0402 passive allocation,1,0.5,0.5,-3.0,-4.5,front,role/value/order code not all frozen; NOT a validated netlist
+P36,0402 passive allocation,1,0.5,0.5,-1.5,-4.5,front,role/value/order code not all frozen; NOT a validated netlist
+P37,0402 passive allocation,1,0.5,0.5,6.0,-4.5,front,role/value/order code not all frozen; NOT a validated netlist
+P38,0402 passive allocation,1,0.5,0.5,7.5,-4.5,front,role/value/order code not all frozen; NOT a validated netlist
+P39,0402 passive allocation,1,0.5,0.5,-8.25,-3.75,front,role/value/order code not all frozen; NOT a validated netlist
+P40,0402 passive allocation,1,0.5,0.5,7.5,-3.75,front,role/value/order code not all frozen; NOT a validated netlist
+P41,0402 passive allocation,1,0.5,0.5,-8.25,-3.0,front,role/value/order code not all frozen; NOT a validated netlist
+P42,0402 passive allocation,1,0.5,0.5,4.5,-3.0,front,role/value/order code not all frozen; NOT a validated netlist
+P43,0402 passive allocation,1,0.5,0.5,7.5,-3.0,front,role/value/order code not all frozen; NOT a validated netlist
+P44,0402 passive allocation,1,0.5,0.5,-8.25,-2.25,front,role/value/order code not all frozen; NOT a validated netlist
+P45,0402 passive allocation,1,0.5,0.5,4.5,-2.25,front,role/value/order code not all frozen; NOT a validated netlist
+P46,0402 passive allocation,1,0.5,0.5,7.5,-2.25,front,role/value/order code not all frozen; NOT a validated netlist
+P47,0402 passive allocation,1,0.5,0.5,-9.0,-1.5,front,role/value/order code not all frozen; NOT a validated netlist
+P48,0402 passive allocation,1,0.5,0.5,-7.5,-1.5,front,role/value/order code not all frozen; NOT a validated netlist
+P49,0402 passive allocation,1,0.5,0.5,4.5,-1.5,front,role/value/order code not all frozen; NOT a validated netlist
+P50,0402 passive allocation,1,0.5,0.5,6.0,-1.5,front,role/value/order code not all frozen; NOT a validated netlist
+P51,0402 passive allocation,1,0.5,0.5,7.5,-1.5,front,role/value/order code not all frozen; NOT a validated netlist
+P52,0402 passive allocation,1,0.5,0.5,9.0,-1.5,front,role/value/order code not all frozen; NOT a validated netlist
+P53,0402 passive allocation,1,0.5,0.5,-9.0,-0.75,front,role/value/order code not all frozen; NOT a validated netlist
+P54,0402 passive allocation,1,0.5,0.5,-7.5,-0.75,front,role/value/order code not all frozen; NOT a validated netlist
+P55,0402 passive allocation,1,0.5,0.5,7.5,-0.75,front,role/value/order code not all frozen; NOT a validated netlist
+P56,0402 passive allocation,1,0.5,0.5,9.0,-0.75,front,role/value/order code not all frozen; NOT a validated netlist

@@ -1,0 +1,17 @@
+# Local environments and credentials
+.venv/
+.env
+.env.*
+!.env.example
+.DS_Store
+__pycache__/
+*.py[cod]
+# CAD backups and local generated graph/runtime caches
+*.FCBak
+*.FCStd1
+*.FCStd2
+CAD_COMPLETE
+CAD_ERROR.txt
+graphify-out/
+# Local verification scratch files
+viewer_syntax.mjs

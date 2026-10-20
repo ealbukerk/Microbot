@@ -1,0 +1,29 @@
+{
+  "revision": "V7",
+  "dock_count": 24,
+  "landing_centers_tangent_mm": [
+    -6,
+    6
+  ],
+  "base_equilateral_side_mm": 8,
+  "base_circumradius_mm": 4.618802153517007,
+  "base_inradius_mm": 2.309401076758503,
+  "base_plane_mm": 8,
+  "landing_equilateral_side_mm": 3.6,
+  "landing_circumradius_mm": 2.078460969082653,
+  "landing_inradius_mm": 1.0392304845413263,
+  "landing_plane_mm": 11.9,
+  "normal_rise_mm": 3.9,
+  "nominal_face_angle_deg": 71.96035948242954,
+  "previous_face_angle_deg": 87.06432655357884,
+  "pole_radius_mm": 0.9,
+  "pole_gap_mm": 0.2,
+  "pole_thickness_mm": 0.3,
+  "magnet_radius_mm": 0.8,
+  "magnet_thickness_mm": 0.45,
+  "total_pole_area_per_dock_mm2": 2.1854321679753923,
+  "nominal_wall_normal_mm": 0.28867513459481287,
+  "root": "Sphere and six face-sector trimmed; full nominal triangle is not present at the root.",
+  "approach": "Three continuous planar ramp faces. Face angle measured relative to landing plane; still steep. No rolling contact, friction, snagging or physical climbing validation.",
+  "magnetic_strength": "Unknown; area change is not a holding-force validation."
+}

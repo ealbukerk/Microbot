@@ -1,0 +1,20 @@
+import FreeCAD as A, FreeCADGui as Gui, json,traceback
+from pathlib import Path
+P=Path(__file__).resolve().parent
+try:
+ d=A.openDocument(str(P/'Bot24.FCStd'));rows=[]
+ for o in d.Objects:
+  if 'EstimatedMass_g' not in o.PropertiesList:continue
+  shape=o.Shape;m=o.EstimatedMass_g/1000;vol=shape.Volume
+  for solid in shape.Solids:
+   c=solid.CenterOfMass;mass=m*solid.Volume/vol;I=solid.MatrixOfInertia
+   rows.append(dict(mass_kg=mass,com_m=[c.x/1000,c.y/1000,c.z/1000],I_com_kgm2=[[getattr(I,'A%d%d'%(i,j))*m/vol/1e6 for j in range(1,4)] for i in range(1,4)]))
+ (P/'inertia_parts.json').write_text(json.dumps(rows))
+ pinion=next(o for o in d.Objects if o.Label=='20 tooth m0.1 input pinion 1').Shape
+ gear=next(o for o in d.Objects if o.Label=='25 tooth m0.1 reduction gear 1').Shape
+ overlaps=[]
+ for k in range(61):
+  a=k*18/60;aa=pinion.copy();bb=gear.copy();aa.rotate(A.Vector(7.8,-4,4.9),A.Vector(1,0,0),a);bb.rotate(A.Vector(7.8,-1.75,4.9),A.Vector(1,0,0),-a*.8);overlaps.append(aa.common(bb).Volume)
+ (P/'gear_mesh_check.json').write_text(json.dumps(dict(samples=61,pinion_span_deg=18,ratio=1.25,max_overlap_mm3=max(overlaps),interference_free_at_sampled_angles=max(overlaps)<1e-6,scope='Nominal custom tooth profile only; not contact stress, backlash tolerance, efficiency or endurance validation.'),indent=2))
+ A.closeDocument(d.Name);Gui.getMainWindow().close()
+except Exception:(P/'INERTIA_ERROR').write_text(traceback.format_exc());raise

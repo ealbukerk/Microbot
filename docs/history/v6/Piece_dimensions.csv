@@ -1,0 +1,236 @@
+piece,material,x_bound_mm,y_bound_mm,z_bound_mm,estimated_mass_g,validation
+Central sphere / OD 23.6 ID 22.9 mm,PEEK,23.57761927909712,23.588806985235436,23.6,0.7727517345303027,Nominal 0.35 mm wall; stress/fatigue untested
+Pyramid 1.-6.-6 / 4 mm nominal tapered frame,PEEK,3.9000000000000012,4.0,4.0,0.017887641073660233,4 x 4 base at face-normal 8 mm; 3.6 x 3.6 tip at 11.9; sphere-trimmed root; custom
+Pyramid 1.-6.-6 / pole 1,Steel,0.40000000000000036,2.0,0.5,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 1.-6.-6 / magnet 1,NdFeB,0.5,2.0,0.5,0.0037499999999999994,Custom magnet; selectable release not implemented
+Pyramid 1.-6.-6 / pole 2,Steel,0.40000000000000036,2.0,0.5,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 1.-6.-6 / magnet 2,NdFeB,0.5,2.0,0.5,0.0037499999999999994,Custom magnet; selectable release not implemented
+Pyramid 1.-6.-6 / hollow radial support,Titanium,1.4458055793313491,1.323279921533496,1.2372205054845842,0.0016233194080290847,0.9 OD / 0.44 ID support and wire channel; joint stress untested
+Pyramid 1.-6.6 / 4 mm nominal tapered frame,PEEK,3.9000000000000004,4.0,4.0,0.017887648219499546,4 x 4 base at face-normal 8 mm; 3.6 x 3.6 tip at 11.9; sphere-trimmed root; custom
+Pyramid 1.-6.6 / pole 1,Steel,0.40000000000000036,2.0,0.5,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 1.-6.6 / magnet 1,NdFeB,0.5,2.0,0.5,0.0037499999999999994,Custom magnet; selectable release not implemented
+Pyramid 1.-6.6 / pole 2,Steel,0.40000000000000036,2.0,0.5,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 1.-6.6 / magnet 2,NdFeB,0.5,2.0,0.5,0.0037499999999999994,Custom magnet; selectable release not implemented
+Pyramid 1.-6.6 / hollow radial support,Titanium,1.4458055780147276,1.3232799219757165,1.2364392903803383,0.0016233147950836114,0.9 OD / 0.44 ID support and wire channel; joint stress untested
+Pyramid 1.6.-6 / 4 mm nominal tapered frame,PEEK,3.9000000000000004,4.0,4.0,0.017887641072867805,4 x 4 base at face-normal 8 mm; 3.6 x 3.6 tip at 11.9; sphere-trimmed root; custom
+Pyramid 1.6.-6 / pole 1,Steel,0.40000000000000036,2.0,0.5,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 1.6.-6 / magnet 1,NdFeB,0.5,2.0,0.5,0.003749999999999999,Custom magnet; selectable release not implemented
+Pyramid 1.6.-6 / pole 2,Steel,0.40000000000000036,2.0,0.5,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 1.6.-6 / magnet 2,NdFeB,0.5,2.0,0.5,0.003749999999999999,Custom magnet; selectable release not implemented
+Pyramid 1.6.-6 / hollow radial support,Titanium,2.4991721677163223,1.8897012173887875,2.120033510847305,0.0051034311017035565,0.9 OD / 0.44 ID support and wire channel; joint stress untested
+Pyramid 1.6.6 / 4 mm nominal tapered frame,PEEK,3.9000000000000004,4.0,4.0,0.01788764822029196,4 x 4 base at face-normal 8 mm; 3.6 x 3.6 tip at 11.9; sphere-trimmed root; custom
+Pyramid 1.6.6 / pole 1,Steel,0.40000000000000036,2.0,0.5,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 1.6.6 / magnet 1,NdFeB,0.5,2.0,0.5,0.003749999999999999,Custom magnet; selectable release not implemented
+Pyramid 1.6.6 / pole 2,Steel,0.40000000000000036,2.0,0.5,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 1.6.6 / magnet 2,NdFeB,0.5,2.0,0.5,0.003749999999999999,Custom magnet; selectable release not implemented
+Pyramid 1.6.6 / hollow radial support,Titanium,2.4999667908619436,1.888376033968358,2.120404290234111,0.005103434818311322,0.9 OD / 0.44 ID support and wire channel; joint stress untested
+Pyramid 2.-6.-6 / 4 mm nominal tapered frame,PEEK,3.9000000000000004,4.0,4.0,0.017887648220291954,4 x 4 base at face-normal 8 mm; 3.6 x 3.6 tip at 11.9; sphere-trimmed root; custom
+Pyramid 2.-6.-6 / pole 1,Steel,0.40000000000000036,2.0,0.5,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 2.-6.-6 / magnet 1,NdFeB,0.5,2.0,0.5,0.003749999999999999,Custom magnet; selectable release not implemented
+Pyramid 2.-6.-6 / pole 2,Steel,0.40000000000000036,2.0,0.5,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 2.-6.-6 / magnet 2,NdFeB,0.5,2.0,0.5,0.003749999999999999,Custom magnet; selectable release not implemented
+Pyramid 2.-6.-6 / hollow radial support,Titanium,1.445805579310214,1.323279921533163,1.2373862269799796,0.0016233236132473495,0.9 OD / 0.44 ID support and wire channel; joint stress untested
+Pyramid 2.-6.6 / 4 mm nominal tapered frame,PEEK,3.9000000000000004,4.0,4.0,0.0178876410728678,4 x 4 base at face-normal 8 mm; 3.6 x 3.6 tip at 11.9; sphere-trimmed root; custom
+Pyramid 2.-6.6 / pole 1,Steel,0.40000000000000036,2.0,0.5,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 2.-6.6 / magnet 1,NdFeB,0.5,2.0,0.5,0.003749999999999999,Custom magnet; selectable release not implemented
+Pyramid 2.-6.6 / pole 2,Steel,0.40000000000000036,2.0,0.5,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 2.-6.6 / magnet 2,NdFeB,0.5,2.0,0.5,0.003749999999999999,Custom magnet; selectable release not implemented
+Pyramid 2.-6.6 / hollow radial support,Titanium,1.4458055793331166,1.3232799218249625,1.2373862269799827,0.001623315988966183,0.9 OD / 0.44 ID support and wire channel; joint stress untested
+Pyramid 2.6.-6 / 4 mm nominal tapered frame,PEEK,3.9000000000000012,4.0,4.0,0.017887648219499563,4 x 4 base at face-normal 8 mm; 3.6 x 3.6 tip at 11.9; sphere-trimmed root; custom
+Pyramid 2.6.-6 / pole 1,Steel,0.40000000000000036,2.0,0.5,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 2.6.-6 / magnet 1,NdFeB,0.5,2.0,0.5,0.003749999999999999,Custom magnet; selectable release not implemented
+Pyramid 2.6.-6 / pole 2,Steel,0.40000000000000036,2.0,0.5,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 2.6.-6 / magnet 2,NdFeB,0.5,2.0,0.5,0.0037499999999999994,Custom magnet; selectable release not implemented
+Pyramid 2.6.-6 / hollow radial support,Titanium,2.499172167716331,1.889701217388799,2.120033510847305,0.005103433993179975,0.9 OD / 0.44 ID support and wire channel; joint stress untested
+Pyramid 2.6.6 / 4 mm nominal tapered frame,PEEK,3.9000000000000012,4.0,4.0,0.017887641073660206,4 x 4 base at face-normal 8 mm; 3.6 x 3.6 tip at 11.9; sphere-trimmed root; custom
+Pyramid 2.6.6 / pole 1,Steel,0.40000000000000036,2.0,0.5,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 2.6.6 / magnet 1,NdFeB,0.5,2.0,0.5,0.003749999999999999,Custom magnet; selectable release not implemented
+Pyramid 2.6.6 / pole 2,Steel,0.40000000000000036,2.0,0.5,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 2.6.6 / magnet 2,NdFeB,0.5,2.0,0.5,0.0037499999999999994,Custom magnet; selectable release not implemented
+Pyramid 2.6.6 / hollow radial support,Titanium,2.4999667908619365,1.8883760339683544,2.120404290234106,0.005103430554585887,0.9 OD / 0.44 ID support and wire channel; joint stress untested
+Pyramid 3.-6.-6 / 4 mm nominal tapered frame,PEEK,4.0,3.9000000000000004,4.0,0.017887648219499563,4 x 4 base at face-normal 8 mm; 3.6 x 3.6 tip at 11.9; sphere-trimmed root; custom
+Pyramid 3.-6.-6 / pole 1,Steel,0.5,0.40000000000000036,2.0,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 3.-6.-6 / magnet 1,NdFeB,0.5,0.5,2.0,0.0037499999999999994,Custom magnet; selectable release not implemented
+Pyramid 3.-6.-6 / pole 2,Steel,0.5,0.40000000000000036,2.0,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 3.-6.-6 / magnet 2,NdFeB,0.5,0.5,2.0,0.0037499999999999994,Custom magnet; selectable release not implemented
+Pyramid 3.-6.-6 / hollow radial support,Titanium,1.2383583505325726,1.4458055793022133,1.3232799215733664,0.0016233235128603068,0.9 OD / 0.44 ID support and wire channel; joint stress untested
+Pyramid 3.-6.6 / 4 mm nominal tapered frame,PEEK,4.0,3.9000000000000004,4.0,0.01788764822029196,4 x 4 base at face-normal 8 mm; 3.6 x 3.6 tip at 11.9; sphere-trimmed root; custom
+Pyramid 3.-6.6 / pole 1,Steel,0.5,0.40000000000000036,2.0,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 3.-6.6 / magnet 1,NdFeB,0.5,0.5,2.0,0.00375,Custom magnet; selectable release not implemented
+Pyramid 3.-6.6 / pole 2,Steel,0.5,0.40000000000000036,2.0,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 3.-6.6 / magnet 2,NdFeB,0.5,0.5,2.0,0.00375,Custom magnet; selectable release not implemented
+Pyramid 3.-6.6 / hollow radial support,Titanium,1.237168084184578,1.4458055801592238,1.3232799198858354,0.0016233159260121133,0.9 OD / 0.44 ID support and wire channel; joint stress untested
+Pyramid 3.6.-6 / 4 mm nominal tapered frame,PEEK,4.0,3.9000000000000012,4.0,0.01788764107366023,4 x 4 base at face-normal 8 mm; 3.6 x 3.6 tip at 11.9; sphere-trimmed root; custom
+Pyramid 3.6.-6 / pole 1,Steel,0.5,0.40000000000000036,2.0,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 3.6.-6 / magnet 1,NdFeB,0.5,0.5,2.0,0.0037499999999999994,Custom magnet; selectable release not implemented
+Pyramid 3.6.-6 / pole 2,Steel,0.5,0.40000000000000036,2.0,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 3.6.-6 / magnet 2,NdFeB,0.5,0.5,2.0,0.0037499999999999994,Custom magnet; selectable release not implemented
+Pyramid 3.6.-6 / hollow radial support,Titanium,2.1204154104078006,2.4988369715144305,1.888240948787626,0.00510343425806948,0.9 OD / 0.44 ID support and wire channel; joint stress untested
+Pyramid 3.6.6 / 4 mm nominal tapered frame,PEEK,4.0,3.9000000000000004,4.0,0.0178876410728678,4 x 4 base at face-normal 8 mm; 3.6 x 3.6 tip at 11.9; sphere-trimmed root; custom
+Pyramid 3.6.6 / pole 1,Steel,0.5,0.40000000000000036,2.0,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 3.6.6 / magnet 1,NdFeB,0.5,0.5,2.0,0.00375,Custom magnet; selectable release not implemented
+Pyramid 3.6.6 / pole 2,Steel,0.5,0.40000000000000036,2.0,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 3.6.6 / magnet 2,NdFeB,0.5,0.5,2.0,0.00375,Custom magnet; selectable release not implemented
+Pyramid 3.6.6 / hollow radial support,Titanium,2.117910795822886,2.499299705210518,1.8897321205513204,0.005103436095107402,0.9 OD / 0.44 ID support and wire channel; joint stress untested
+Pyramid 4.-6.-6 / 4 mm nominal tapered frame,PEEK,4.0,3.9000000000000004,4.0,0.01788764107286782,4 x 4 base at face-normal 8 mm; 3.6 x 3.6 tip at 11.9; sphere-trimmed root; custom
+Pyramid 4.-6.-6 / pole 1,Steel,0.5,0.40000000000000036,2.0,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 4.-6.-6 / magnet 1,NdFeB,0.5,0.5,2.0,0.00375,Custom magnet; selectable release not implemented
+Pyramid 4.-6.-6 / pole 2,Steel,0.5,0.40000000000000036,2.0,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 4.-6.-6 / magnet 2,NdFeB,0.5,0.5,2.0,0.00375,Custom magnet; selectable release not implemented
+Pyramid 4.-6.-6 / hollow radial support,Titanium,1.238358350532573,1.4458055793021813,1.3232799215733273,0.0016233236627470117,0.9 OD / 0.44 ID support and wire channel; joint stress untested
+Pyramid 4.-6.6 / 4 mm nominal tapered frame,PEEK,4.0,3.9000000000000012,4.0,0.017887641073660237,4 x 4 base at face-normal 8 mm; 3.6 x 3.6 tip at 11.9; sphere-trimmed root; custom
+Pyramid 4.-6.6 / pole 1,Steel,0.5,0.40000000000000036,2.0,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 4.-6.6 / magnet 1,NdFeB,0.5,0.5,2.0,0.00375,Custom magnet; selectable release not implemented
+Pyramid 4.-6.6 / pole 2,Steel,0.5,0.40000000000000036,2.0,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 4.-6.6 / magnet 2,NdFeB,0.5,0.5,2.0,0.00375,Custom magnet; selectable release not implemented
+Pyramid 4.-6.6 / hollow radial support,Titanium,1.2371680841845771,1.4458055801592256,1.3232799198858398,0.001623315988292091,0.9 OD / 0.44 ID support and wire channel; joint stress untested
+Pyramid 4.6.-6 / 4 mm nominal tapered frame,PEEK,4.0,3.9000000000000004,4.0,0.017887648220291923,4 x 4 base at face-normal 8 mm; 3.6 x 3.6 tip at 11.9; sphere-trimmed root; custom
+Pyramid 4.6.-6 / pole 1,Steel,0.5,0.40000000000000036,2.0,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 4.6.-6 / magnet 1,NdFeB,0.5,0.5,2.0,0.00375,Custom magnet; selectable release not implemented
+Pyramid 4.6.-6 / pole 2,Steel,0.5,0.40000000000000036,2.0,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 4.6.-6 / magnet 2,NdFeB,0.5,0.5,2.0,0.00375,Custom magnet; selectable release not implemented
+Pyramid 4.6.-6 / hollow radial support,Titanium,2.120052304025082,2.4987936470668295,1.8897482898841957,0.005103433786034838,0.9 OD / 0.44 ID support and wire channel; joint stress untested
+Pyramid 4.6.6 / 4 mm nominal tapered frame,PEEK,4.0,3.9000000000000012,4.0,0.017887648219499532,4 x 4 base at face-normal 8 mm; 3.6 x 3.6 tip at 11.9; sphere-trimmed root; custom
+Pyramid 4.6.6 / pole 1,Steel,0.5,0.40000000000000036,2.0,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 4.6.6 / magnet 1,NdFeB,0.5,0.5,2.0,0.00375,Custom magnet; selectable release not implemented
+Pyramid 4.6.6 / pole 2,Steel,0.5,0.40000000000000036,2.0,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 4.6.6 / magnet 2,NdFeB,0.5,0.5,2.0,0.00375,Custom magnet; selectable release not implemented
+Pyramid 4.6.6 / hollow radial support,Titanium,2.119873292348844,2.500292816807656,1.8882571864356388,0.005103436118132542,0.9 OD / 0.44 ID support and wire channel; joint stress untested
+Pyramid 5.-6.-6 / 4 mm nominal tapered frame,PEEK,4.0,4.0,3.9000000000000004,0.0178876357627467,4 x 4 base at face-normal 8 mm; 3.6 x 3.6 tip at 11.9; sphere-trimmed root; custom
+Pyramid 5.-6.-6 / pole 1,Steel,0.5,2.0,0.40000000000000036,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 5.-6.-6 / magnet 1,NdFeB,0.5,2.0,0.5,0.003749999999999999,Custom magnet; selectable release not implemented
+Pyramid 5.-6.-6 / pole 2,Steel,0.5,2.0,0.40000000000000036,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 5.-6.-6 / magnet 2,NdFeB,0.5,2.0,0.5,0.003749999999999999,Custom magnet; selectable release not implemented
+Pyramid 5.-6.-6 / hollow radial support,Titanium,1.237640726921727,1.3232799146465206,1.4458055800973426,0.0016233195489096333,0.9 OD / 0.44 ID support and wire channel; joint stress untested
+Pyramid 5.-6.6 / 4 mm nominal tapered frame,PEEK,4.0,4.0,3.9000000000000004,0.017887635762746736,4 x 4 base at face-normal 8 mm; 3.6 x 3.6 tip at 11.9; sphere-trimmed root; custom
+Pyramid 5.-6.6 / pole 1,Steel,0.5,2.0,0.40000000000000036,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 5.-6.6 / magnet 1,NdFeB,0.5,2.0,0.5,0.003749999999999999,Custom magnet; selectable release not implemented
+Pyramid 5.-6.6 / pole 2,Steel,0.5,2.0,0.40000000000000036,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 5.-6.6 / magnet 2,NdFeB,0.5,2.0,0.5,0.003749999999999999,Custom magnet; selectable release not implemented
+Pyramid 5.-6.6 / hollow radial support,Titanium,1.2367185532046316,1.323279922426849,1.4458055791075228,0.0016233148993011091,0.9 OD / 0.44 ID support and wire channel; joint stress untested
+Pyramid 5.6.-6 / 4 mm nominal tapered frame,PEEK,4.0,4.0,3.9000000000000004,0.0178876357627467,4 x 4 base at face-normal 8 mm; 3.6 x 3.6 tip at 11.9; sphere-trimmed root; custom
+Pyramid 5.6.-6 / pole 1,Steel,0.5,2.0,0.40000000000000036,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 5.6.-6 / magnet 1,NdFeB,0.5,2.0,0.5,0.003749999999999999,Custom magnet; selectable release not implemented
+Pyramid 5.6.-6 / pole 2,Steel,0.5,2.0,0.40000000000000036,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 5.6.-6 / magnet 2,NdFeB,0.5,2.0,0.5,0.003749999999999999,Custom magnet; selectable release not implemented
+Pyramid 5.6.-6 / hollow radial support,Titanium,2.120461064600023,1.889592428679694,2.4988942004646955,0.0051034341830776524,0.9 OD / 0.44 ID support and wire channel; joint stress untested
+Pyramid 5.6.6 / 4 mm nominal tapered frame,PEEK,4.0,4.0,3.9000000000000004,0.017887635762746695,4 x 4 base at face-normal 8 mm; 3.6 x 3.6 tip at 11.9; sphere-trimmed root; custom
+Pyramid 5.6.6 / pole 1,Steel,0.5,2.0,0.40000000000000036,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 5.6.6 / magnet 1,NdFeB,0.5,2.0,0.5,0.003749999999999999,Custom magnet; selectable release not implemented
+Pyramid 5.6.6 / pole 2,Steel,0.5,2.0,0.40000000000000036,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 5.6.6 / magnet 2,NdFeB,0.5,2.0,0.5,0.003749999999999999,Custom magnet; selectable release not implemented
+Pyramid 5.6.6 / hollow radial support,Titanium,2.1199895985648034,1.889101005350211,2.499313554773366,0.005103433134598928,0.9 OD / 0.44 ID support and wire channel; joint stress untested
+Pyramid 6.-6.-6 / 4 mm nominal tapered frame,PEEK,4.0,4.0,3.9000000000000004,0.017887635762746733,4 x 4 base at face-normal 8 mm; 3.6 x 3.6 tip at 11.9; sphere-trimmed root; custom
+Pyramid 6.-6.-6 / pole 1,Steel,0.5,2.0,0.40000000000000036,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 6.-6.-6 / magnet 1,NdFeB,0.5,2.0,0.5,0.003749999999999999,Custom magnet; selectable release not implemented
+Pyramid 6.-6.-6 / pole 2,Steel,0.5,2.0,0.40000000000000036,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 6.-6.-6 / magnet 2,NdFeB,0.5,2.0,0.5,0.003749999999999999,Custom magnet; selectable release not implemented
+Pyramid 6.-6.-6 / hollow radial support,Titanium,1.2384198481765223,1.3232799224266456,1.4458055791058495,0.0016233235415087056,0.9 OD / 0.44 ID support and wire channel; joint stress untested
+Pyramid 6.-6.6 / 4 mm nominal tapered frame,PEEK,4.0,4.0,3.9000000000000004,0.017887635762746726,4 x 4 base at face-normal 8 mm; 3.6 x 3.6 tip at 11.9; sphere-trimmed root; custom
+Pyramid 6.-6.6 / pole 1,Steel,0.5,2.0,0.40000000000000036,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 6.-6.6 / magnet 1,NdFeB,0.5,2.0,0.5,0.003749999999999999,Custom magnet; selectable release not implemented
+Pyramid 6.-6.6 / pole 2,Steel,0.5,2.0,0.40000000000000036,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 6.-6.6 / magnet 2,NdFeB,0.5,2.0,0.5,0.003749999999999999,Custom magnet; selectable release not implemented
+Pyramid 6.-6.6 / hollow radial support,Titanium,1.2384576152799167,1.3232799175530818,1.4458055800972467,0.0016233160272018097,0.9 OD / 0.44 ID support and wire channel; joint stress untested
+Pyramid 6.6.-6 / 4 mm nominal tapered frame,PEEK,4.0,4.0,3.9000000000000004,0.01788763576274672,4 x 4 base at face-normal 8 mm; 3.6 x 3.6 tip at 11.9; sphere-trimmed root; custom
+Pyramid 6.6.-6 / pole 1,Steel,0.5,2.0,0.40000000000000036,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 6.6.-6 / magnet 1,NdFeB,0.5,2.0,0.5,0.003749999999999999,Custom magnet; selectable release not implemented
+Pyramid 6.6.-6 / pole 2,Steel,0.5,2.0,0.40000000000000036,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 6.6.-6 / magnet 2,NdFeB,0.5,2.0,0.5,0.003749999999999999,Custom magnet; selectable release not implemented
+Pyramid 6.6.-6 / hollow radial support,Titanium,2.1204610646000264,1.889592428679694,2.4988942004647043,0.005103429925755688,0.9 OD / 0.44 ID support and wire channel; joint stress untested
+Pyramid 6.6.6 / 4 mm nominal tapered frame,PEEK,4.0,4.0,3.9000000000000004,0.017887635762746695,4 x 4 base at face-normal 8 mm; 3.6 x 3.6 tip at 11.9; sphere-trimmed root; custom
+Pyramid 6.6.6 / pole 1,Steel,0.5,2.0,0.40000000000000036,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 6.6.6 / magnet 1,NdFeB,0.5,2.0,0.5,0.003749999999999999,Custom magnet; selectable release not implemented
+Pyramid 6.6.6 / pole 2,Steel,0.5,2.0,0.40000000000000036,0.0031400000000000026,2 mm2 pole area per pyramid; holding and polarity unmeasured
+Pyramid 6.6.6 / magnet 2,NdFeB,0.5,2.0,0.5,0.003749999999999999,Custom magnet; selectable release not implemented
+Pyramid 6.6.6 / hollow radial support,Titanium,2.1199895985648256,1.889101005350235,2.4993135547733676,0.005103437245578375,0.9 OD / 0.44 ID support and wire channel; joint stress untested
+KYOCERA AVX SCCQ12B105MRB / 1 F 2.7 V,CapComposite,12.0,6.3,6.300000000000001,0.7,Actual 6.3 x 12 mm body; 0.8 F min / 1.5 ohm DC ESR; lead bends unmodeled
+Wurth 760308101208 coil / maximum stack envelope,Copper,10.592488287086837,10.596243477908597,1.6799999999999997,0.2,"10.3 +/-0.3 mm ferrite OD, <=1.68 mm stack; copper/ferrite composite envelope; nominal mass estimate"
+20 mm circular 4 layer motherboard,FR4,19.986740898848304,19.99336935028626,0.6000000000000001,0.3487167845484671,Package placement only; unrouted and no pin-level ERC/DRC
+U1 / STM32G431CBU6,PackageComposite,7.0,7.0,0.5499999999999998,0.05389999999999998,supplier body envelope; land pattern / routing unverified
+U2 / BQ51013B RHL,PackageComposite,4.5,3.5,1.0,0.0315,supplier body envelope; land pattern / routing unverified
+U3 / TPS63031 DSK,PackageComposite,2.5,2.5,0.7999999999999998,0.009999999999999998,supplier body envelope; land pattern / routing unverified
+L1 / 2.2 uH power inductor reservation,PackageComposite,2.5,2.5,1.0,0.012499999999999997,value/package target; exact order code and saturation need selection
+U4 / BQ25173 DSG,PackageComposite,2.0,2.0,0.7999999999999998,0.006399999999999999,supplier body envelope; land pattern / routing unverified
+U5 / LM66100 DCK,PackageComposite,2.1,2.0,1.1,0.00924,supplier body envelope; land pattern / routing unverified
+U6 / LM66100 DCK,PackageComposite,2.1,2.0,1.1,0.00924,supplier body envelope; land pattern / routing unverified
+U7 / TPS62840 DLCR,PackageComposite,1.5,2.0,0.7999999999999998,0.004799999999999999,750 mA motor buck candidate; circuit not routed
+L2 / 2.2 uH motor inductor reservation,PackageComposite,2.5,2.5,1.0,0.012499999999999997,current/inductance target; exact order code unselected
+U8 / Motor isolation switch reservation,PackageComposite,1.5,1.5,0.7999999999999998,0.0035999999999999995,current-limit cutoff implementation not selected
+U9 / DRV8311P RRW,PackageComposite,3.0,3.0,0.8,0.014400000000000001,supplier body envelope; land pattern / routing unverified
+U10 / DRV8311P RRW,PackageComposite,3.0,3.0,0.8,0.014400000000000001,supplier body envelope; land pattern / routing unverified
+U11 / DRV8311P RRW,PackageComposite,3.0,3.0,0.8,0.014400000000000001,supplier body envelope; land pattern / routing unverified
+U12 / SN74AXC8T245 RJW,PackageComposite,4.0,2.0,0.6,0.0096,Ioff / supply isolation candidate; pin routing and OE sequence unverified
+U13 / SN74AXC8T245 RJW,PackageComposite,4.0,2.0,0.6,0.0096,Ioff / supply isolation candidate; pin routing and OE sequence unverified
+P1 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P2 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P3 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P4 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P5 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P6 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P7 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P8 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P9 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P10 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P11 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P12 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P13 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P14 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P15 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P16 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P17 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P18 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P19 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P20 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P21 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P22 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P23 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P24 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P25 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P26 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P27 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P28 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P29 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P30 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P31 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P32 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P33 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P34 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P35 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P36 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P37 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P38 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P39 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P40 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P41 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P42 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P43 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P44 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P45 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P46 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P47 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P48 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P49 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P50 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P51 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P52 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P53 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P54 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P55 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P56 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+0308H003B BLDC motor 1,PackageComposite,8.4,3.0,3.0,0.35,3 mm dia x 8.4; supplier 0.35 g; rated torque 0.013 mNm; shaft/mount require supplier CAD
+03B 125:1 gearhead 1,Steel,6.0,3.397928811864926,3.395858885441702,0.18,3.4 dia x 6; 0.18 g; 0.88 mNm continuous / 15000 rpm input max; supplier assembled-combo confirmation required
+Geared output shaft 1,Steel,0.5999999999999996,0.5988160370569631,0.5999999999999996,0.001331721125856713,0.6 mm shaft proxy; confirm real output-shaft drawing
+20 tooth m0.1 input pinion 1,Steel,0.5000000000000009,2.1999999999999997,2.1999999999999997,0.011852490115291348,"20 degree involute approximation; 0.5 face, 0.01 mm tooth backlash reduction; custom unqualified"
+25 tooth m0.1 reduction gear 1,Steel,0.5000000000000009,2.692844736171179,2.69782169051099,0.018700055778801676,1.25:1 extra reduction; 2.25 mm center distance; custom manufacture/wear unqualified
+Final tendon capstan 1,Titanium,0.40000000000000036,1.5976534621617982,1.5999999999999996,0.0035628173965831134,"0.8 mm tendon pitch radius; tendon, brake and captured hinge routing unresolved"
+0308H003B BLDC motor 2,PackageComposite,8.4,3.0,3.0,0.35,3 mm dia x 8.4; supplier 0.35 g; rated torque 0.013 mNm; shaft/mount require supplier CAD
+03B 125:1 gearhead 2,Steel,6.0,3.3979288118649253,3.395858885441702,0.18,3.4 dia x 6; 0.18 g; 0.88 mNm continuous / 15000 rpm input max; supplier assembled-combo confirmation required
+Geared output shaft 2,Steel,0.5999999999999996,0.5988160370569631,0.5999999999999996,0.0013317211258567128,0.6 mm shaft proxy; confirm real output-shaft drawing
+20 tooth m0.1 input pinion 2,Steel,0.5000000000000009,2.2,2.1999999999999997,0.011852490115291327,"20 degree involute approximation; 0.5 face, 0.01 mm tooth backlash reduction; custom unqualified"
+25 tooth m0.1 reduction gear 2,Steel,0.5000000000000009,2.692844736171179,2.69782169051099,0.018700055778801676,1.25:1 extra reduction; 2.25 mm center distance; custom manufacture/wear unqualified
+Final tendon capstan 2,Titanium,0.40000000000000036,1.5976534621617982,1.5999999999999996,0.0035628173965831134,"0.8 mm tendon pitch radius; tendon, brake and captured hinge routing unresolved"
+0308H003B BLDC motor 3,PackageComposite,8.4,3.0,3.0,0.35,3 mm dia x 8.4; supplier 0.35 g; rated torque 0.013 mNm; shaft/mount require supplier CAD
+Direct slide capstan / 0.5 mm pitch radius,Titanium,0.5999999999999996,0.9983081582712678,1.0,0.0020875883183104167,"Direct motor drive; slip, bearing and tendon fatigue untested"
+Captured hinge pin / 0.8 dia x 3,Steel,3.0,0.8000000000000007,0.7999999999999999,0.01183752111872634,"Pin candidate; 0.1 N force load gives low shear stress, bearing/retention still unqualified"
+Captured pin bearing sleeve,Titanium,2.8,1.5,1.5,0.015045666527726835,1.5 OD / 0.84 ID / 2.8 length; no demonstrated automatic transfer latch

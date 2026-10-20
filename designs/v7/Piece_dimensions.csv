@@ -1,0 +1,236 @@
+piece,material,x_bound_mm,y_bound_mm,z_bound_mm,estimated_mass_g,validation
+Central sphere / OD 23.6 ID 22.9 mm,PEEK,23.57761927909712,23.588806985235436,23.6,0.7727517345303027,Nominal 0.35 mm wall; stress/fatigue untested
+Triangular ramp 1.-6.-6 / three sloped facets,PEEK,3.9000000000000004,5.863647157892485,5.900359959027261,0.020531956355113862,Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test
+Triangular ramp 1.-6.-6 / split round pole 1,Steel,0.3000000000000007,1.7888543819998333,0.8000000000000052,0.0025733463777910253,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 1.-6.-6 / split magnet 1,NdFeB,0.4499999999999993,1.5874507866387546,0.6991304888060368,0.0028543296303086625,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 1.-6.-6 / split round pole 2,Steel,0.3000000000000007,1.7888543819998315,0.8000000000000007,0.0025733463777910235,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 1.-6.-6 / split magnet 2,NdFeB,0.4499999999999993,1.5874507866387546,0.7000000000000002,0.0028543296303086625,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 1.-6.-6 / hollow radial support,Titanium,1.9565940004328901,1.5956500660815944,1.5954260403693175,0.0038244182044756417,0.9 OD / 0.44 ID radial support; joint strength untested
+Triangular ramp 1.-6.6 / three sloped facets,PEEK,3.9000000000000004,5.863647157892483,5.900359959027265,0.02053195632467076,Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test
+Triangular ramp 1.-6.6 / split round pole 1,Steel,0.3000000000000007,1.7888543819998333,0.8000000000000052,0.0025733463777910253,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 1.-6.6 / split magnet 1,NdFeB,0.4499999999999993,1.5874507866387546,0.6991304888060368,0.0028543296303086625,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 1.-6.6 / split round pole 2,Steel,0.3000000000000007,1.7888543819998315,0.8000000000000007,0.0025733463777910235,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 1.-6.6 / split magnet 2,NdFeB,0.4499999999999993,1.5874507866387546,0.7000000000000002,0.0028543296303086625,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 1.-6.6 / hollow radial support,Titanium,1.9559779617815582,1.5965825136930611,1.5958022563892458,0.003824425261880178,0.9 OD / 0.44 ID radial support; joint strength untested
+Triangular ramp 1.6.-6 / three sloped facets,PEEK,3.9000000000000004,5.643590404174258,7.089829842175305,0.021971614277281615,Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test
+Triangular ramp 1.6.-6 / split round pole 1,Steel,0.3000000000000007,1.7888543819998333,0.8000000000000052,0.0025733463777910253,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 1.6.-6 / split magnet 1,NdFeB,0.4499999999999993,1.5874507866387546,0.6991304888060368,0.0028543296303086625,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 1.6.-6 / split round pole 2,Steel,0.3000000000000007,1.7888543819998315,0.8000000000000007,0.0025733463777910235,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 1.6.-6 / split magnet 2,NdFeB,0.4499999999999993,1.5874507866387546,0.7000000000000002,0.0028543296303086625,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 1.6.-6 / hollow radial support,Titanium,1.9559170957216097,1.5957984429754575,1.5966003043976125,0.0038244253464739812,0.9 OD / 0.44 ID radial support; joint strength untested
+Triangular ramp 1.6.6 / three sloped facets,PEEK,3.9000000000000004,5.64359040417426,7.089829842175304,0.021971629790028924,Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test
+Triangular ramp 1.6.6 / split round pole 1,Steel,0.3000000000000007,1.7888543819998333,0.8000000000000052,0.0025733463777910253,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 1.6.6 / split magnet 1,NdFeB,0.4499999999999993,1.5874507866387546,0.6991304888060368,0.0028543296303086625,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 1.6.6 / split round pole 2,Steel,0.3000000000000007,1.7888543819998315,0.8000000000000007,0.0025733463777910235,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 1.6.6 / split magnet 2,NdFeB,0.4499999999999993,1.5874507866387546,0.7000000000000002,0.0028543296303086625,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 1.6.6 / hollow radial support,Titanium,1.9560933901036144,1.5958001948021323,1.5966014976572689,0.0038244253594067906,0.9 OD / 0.44 ID radial support; joint strength untested
+Triangular ramp 2.-6.-6 / three sloped facets,PEEK,3.900000000000002,5.863647157892487,5.900359959027263,0.02053196046782065,Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test
+Triangular ramp 2.-6.-6 / split round pole 1,Steel,0.3000000000000007,1.7888543819998333,0.8000000000000052,0.0025733463777910244,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 2.-6.-6 / split magnet 1,NdFeB,0.4499999999999993,1.5874507866387546,0.6991304888060368,0.002854329630308661,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 2.-6.-6 / split round pole 2,Steel,0.3000000000000007,1.7888543819998315,0.8000000000000007,0.0025733463777910235,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 2.-6.-6 / split magnet 2,NdFeB,0.4499999999999993,1.5874507866387546,0.7000000000000002,0.002854329630308664,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 2.-6.-6 / hollow radial support,Titanium,1.9560933901035948,1.5958001948021332,1.5966014976572689,0.0038244253594067958,0.9 OD / 0.44 ID radial support; joint strength untested
+Triangular ramp 2.-6.6 / three sloped facets,PEEK,3.900000000000002,5.863647157892483,5.900359959027265,0.020531952195158316,Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test
+Triangular ramp 2.-6.6 / split round pole 1,Steel,0.3000000000000007,1.7888543819998333,0.8000000000000052,0.0025733463777910244,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 2.-6.6 / split magnet 1,NdFeB,0.4499999999999993,1.5874507866387546,0.6991304888060368,0.002854329630308661,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 2.-6.6 / split round pole 2,Steel,0.3000000000000007,1.7888543819998315,0.8000000000000007,0.0025733463777910235,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 2.-6.6 / split magnet 2,NdFeB,0.4499999999999993,1.5874507866387546,0.7000000000000002,0.002854329630308664,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 2.-6.6 / hollow radial support,Titanium,1.9559170957216025,1.5957984429754575,1.5966003043976125,0.0038244253464739973,0.9 OD / 0.44 ID radial support; joint strength untested
+Triangular ramp 2.6.-6 / three sloped facets,PEEK,3.9000000000000004,5.643590404174257,7.089829842175304,0.02197161633797044,Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test
+Triangular ramp 2.6.-6 / split round pole 1,Steel,0.3000000000000007,1.7888543819998333,0.8000000000000052,0.002573346377791024,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 2.6.-6 / split magnet 1,NdFeB,0.4499999999999993,1.5874507866387546,0.6991304888060368,0.002854329630308661,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 2.6.-6 / split round pole 2,Steel,0.3000000000000007,1.7888543819998315,0.8000000000000007,0.002573346377791023,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 2.6.-6 / split magnet 2,NdFeB,0.4499999999999993,1.5874507866387546,0.7000000000000002,0.0028543296303086634,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 2.6.-6 / hollow radial support,Titanium,1.9569041567474272,1.595319306679964,1.5949049656863563,0.0038244225148628412,0.9 OD / 0.44 ID radial support; joint strength untested
+Triangular ramp 2.6.6 / three sloped facets,PEEK,3.9000000000000004,5.643590404174259,7.089829842175303,0.021971617945965895,Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test
+Triangular ramp 2.6.6 / split round pole 1,Steel,0.3000000000000007,1.7888543819998333,0.8000000000000052,0.002573346377791024,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 2.6.6 / split magnet 1,NdFeB,0.4499999999999993,1.5874507866387546,0.6991304888060368,0.002854329630308661,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 2.6.6 / split round pole 2,Steel,0.3000000000000007,1.7888543819998315,0.8000000000000007,0.002573346377791023,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 2.6.6 / split magnet 2,NdFeB,0.4499999999999993,1.5874507866387546,0.7000000000000002,0.0028543296303086634,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 2.6.6 / hollow radial support,Titanium,1.9564726714409737,1.596564556244445,1.5956560864323563,0.0038244288360262642,0.9 OD / 0.44 ID radial support; joint strength untested
+Triangular ramp 3.-6.-6 / three sloped facets,PEEK,5.900359959027263,3.9000000000000012,5.863647157892487,0.0205319660157329,Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test
+Triangular ramp 3.-6.-6 / split round pole 1,Steel,0.800000000000006,0.3000000000000007,1.788854381999835,0.0025733463777910257,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 3.-6.-6 / split magnet 1,NdFeB,0.6991304888060368,0.4499999999999993,1.5874507866387546,0.0028543296303086612,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 3.-6.-6 / split round pole 2,Steel,0.8000000000000007,0.3000000000000007,1.7888543819998315,0.0025733463777910235,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 3.-6.-6 / split magnet 2,NdFeB,0.7000000000000002,0.4499999999999993,1.5874507866387546,0.0028543296303086634,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 3.-6.-6 / hollow radial support,Titanium,1.5965825136930594,1.9559779617815742,1.5958022563892449,0.003824425261880155,0.9 OD / 0.44 ID radial support; joint strength untested
+Triangular ramp 3.-6.6 / three sloped facets,PEEK,5.900359959027264,3.900000000000002,5.863647157892485,0.02053196214898687,Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test
+Triangular ramp 3.-6.6 / split round pole 1,Steel,0.800000000000006,0.3000000000000007,1.788854381999835,0.0025733463777910257,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 3.-6.6 / split magnet 1,NdFeB,0.6991304888060368,0.4499999999999993,1.5874507866387546,0.0028543296303086612,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 3.-6.6 / split round pole 2,Steel,0.8000000000000007,0.3000000000000007,1.7888543819998315,0.0025733463777910235,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 3.-6.6 / split magnet 2,NdFeB,0.7000000000000002,0.4499999999999993,1.5874507866387546,0.0028543296303086634,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 3.-6.6 / hollow radial support,Titanium,1.5948958366319381,1.9569234848950021,1.5954359299195664,0.00382442441341734,0.9 OD / 0.44 ID radial support; joint strength untested
+Triangular ramp 3.6.-6 / three sloped facets,PEEK,7.089829842175304,3.9000000000000004,5.643590404174258,0.021971619201729124,Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test
+Triangular ramp 3.6.-6 / split round pole 1,Steel,0.800000000000006,0.3000000000000007,1.788854381999835,0.0025733463777910257,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 3.6.-6 / split magnet 1,NdFeB,0.6991304888060368,0.4499999999999993,1.5874507866387546,0.0028543296303086612,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 3.6.-6 / split round pole 2,Steel,0.8000000000000007,0.3000000000000007,1.7888543819998315,0.0025733463777910235,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 3.6.-6 / split magnet 2,NdFeB,0.7000000000000002,0.4499999999999993,1.5874507866387546,0.0028543296303086634,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 3.6.-6 / hollow radial support,Titanium,1.5956500660815873,1.9565940004328937,1.5954260403693192,0.003824418204475397,0.9 OD / 0.44 ID radial support; joint strength untested
+Triangular ramp 3.6.6 / three sloped facets,PEEK,7.0898298421753,3.900000000000002,5.64359040417426,0.021971617323782437,Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test
+Triangular ramp 3.6.6 / split round pole 1,Steel,0.800000000000006,0.3000000000000007,1.788854381999835,0.0025733463777910257,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 3.6.6 / split magnet 1,NdFeB,0.6991304888060368,0.4499999999999993,1.5874507866387546,0.0028543296303086612,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 3.6.6 / split round pole 2,Steel,0.8000000000000007,0.3000000000000007,1.7888543819998315,0.0025733463777910235,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 3.6.6 / split magnet 2,NdFeB,0.7000000000000002,0.4499999999999993,1.5874507866387546,0.0028543296303086634,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 3.6.6 / hollow radial support,Titanium,1.5944075946486373,1.9569267992731945,1.5968064208490746,0.003824422602721123,0.9 OD / 0.44 ID radial support; joint strength untested
+Triangular ramp 4.-6.-6 / three sloped facets,PEEK,5.900359959027264,3.900000000000002,5.863647157892487,0.020531955488632105,Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test
+Triangular ramp 4.-6.-6 / split round pole 1,Steel,0.800000000000006,0.3000000000000007,1.788854381999835,0.002573346377791026,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 4.-6.-6 / split magnet 1,NdFeB,0.6991304888060368,0.4499999999999993,1.5874507866387546,0.0028543296303086612,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 4.-6.-6 / split round pole 2,Steel,0.8000000000000007,0.3000000000000007,1.7888543819998315,0.002573346377791023,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 4.-6.-6 / split magnet 2,NdFeB,0.7000000000000002,0.4499999999999993,1.5874507866387546,0.0028543296303086634,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 4.-6.-6 / hollow radial support,Titanium,1.594407594648641,1.9569267992731945,1.5968064208490746,0.003824422602721139,0.9 OD / 0.44 ID radial support; joint strength untested
+Triangular ramp 4.-6.6 / three sloped facets,PEEK,5.900359959027263,3.9000000000000012,5.863647157892485,0.020531951643414485,Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test
+Triangular ramp 4.-6.6 / split round pole 1,Steel,0.800000000000006,0.3000000000000007,1.788854381999835,0.0025733463777910266,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 4.-6.6 / split magnet 1,NdFeB,0.6991304888060368,0.4499999999999993,1.5874507866387546,0.0028543296303086612,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 4.-6.6 / split round pole 2,Steel,0.8000000000000007,0.3000000000000007,1.7888543819998315,0.0025733463777910235,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 4.-6.6 / split magnet 2,NdFeB,0.7000000000000002,0.4499999999999993,1.5874507866387546,0.0028543296303086634,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 4.-6.6 / hollow radial support,Titanium,1.5965645562444362,1.9564726714409542,1.5956560864323714,0.003824428836026315,0.9 OD / 0.44 ID radial support; joint strength untested
+Triangular ramp 4.6.-6 / three sloped facets,PEEK,7.089829842175305,3.900000000000002,5.643590404174258,0.021971608761819795,Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test
+Triangular ramp 4.6.-6 / split round pole 1,Steel,0.800000000000006,0.3000000000000007,1.788854381999835,0.002573346377791026,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 4.6.-6 / split magnet 1,NdFeB,0.6991304888060368,0.4499999999999993,1.5874507866387546,0.0028543296303086612,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 4.6.-6 / split round pole 2,Steel,0.8000000000000007,0.3000000000000007,1.7888543819998315,0.002573346377791023,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 4.6.-6 / split magnet 2,NdFeB,0.7000000000000002,0.4499999999999993,1.5874507866387546,0.0028543296303086634,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 4.6.-6 / hollow radial support,Titanium,1.5948958366319221,1.956923484895004,1.5954359299195282,0.003824424413417309,0.9 OD / 0.44 ID radial support; joint strength untested
+Triangular ramp 4.6.6 / three sloped facets,PEEK,7.089829842175302,3.9000000000000004,5.643590404174256,0.021971620920488044,Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test
+Triangular ramp 4.6.6 / split round pole 1,Steel,0.800000000000006,0.3000000000000007,1.788854381999835,0.0025733463777910266,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 4.6.6 / split magnet 1,NdFeB,0.6991304888060368,0.4499999999999993,1.5874507866387546,0.0028543296303086612,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 4.6.6 / split round pole 2,Steel,0.8000000000000007,0.3000000000000007,1.7888543819998315,0.0025733463777910235,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 4.6.6 / split magnet 2,NdFeB,0.7000000000000002,0.4499999999999993,1.5874507866387546,0.0028543296303086634,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 4.6.6 / hollow radial support,Titanium,1.5953193066799845,1.956904156747422,1.5949049656863679,0.003824422514862858,0.9 OD / 0.44 ID radial support; joint strength untested
+Triangular ramp 5.-6.-6 / three sloped facets,PEEK,5.900359959027265,5.863647157892487,3.9000000000000004,0.02053194982622496,Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test
+Triangular ramp 5.-6.-6 / split round pole 1,Steel,0.800000000000006,1.7888543819998333,0.3000000000000007,0.0025733463777910257,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 5.-6.-6 / split magnet 1,NdFeB,0.6991304888060368,1.5874507866387546,0.4499999999999993,0.0028543296303086617,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 5.-6.-6 / split round pole 2,Steel,0.8000000000000007,1.7888543819998315,0.3000000000000007,0.0025733463777910235,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 5.-6.-6 / split magnet 2,NdFeB,0.7000000000000002,1.5874507866387546,0.4499999999999993,0.0028543296303086634,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 5.-6.-6 / hollow radial support,Titanium,1.5955519636236,1.5958951711657097,1.9566273181641574,0.0038244255192818664,0.9 OD / 0.44 ID radial support; joint strength untested
+Triangular ramp 5.-6.6 / three sloped facets,PEEK,5.900359959027265,5.863647157892483,3.9000000000000004,0.020531948593894785,Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test
+Triangular ramp 5.-6.6 / split round pole 1,Steel,0.800000000000006,1.7888543819998333,0.3000000000000007,0.0025733463777910257,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 5.-6.6 / split magnet 1,NdFeB,0.6991304888060368,1.5874507866387546,0.4499999999999993,0.0028543296303086617,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 5.-6.6 / split round pole 2,Steel,0.8000000000000007,1.7888543819998315,0.3000000000000007,0.0025733463777910235,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 5.-6.6 / split magnet 2,NdFeB,0.7000000000000002,1.5874507866387546,0.4499999999999993,0.0028543296303086634,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 5.-6.6 / hollow radial support,Titanium,1.5958369313781287,1.596220364412872,1.9564435160223947,0.003824423661437904,0.9 OD / 0.44 ID radial support; joint strength untested
+Triangular ramp 5.6.-6 / three sloped facets,PEEK,7.089829842175305,5.643590404174258,3.9000000000000004,0.02197160196819556,Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test
+Triangular ramp 5.6.-6 / split round pole 1,Steel,0.800000000000006,1.7888543819998333,0.3000000000000007,0.0025733463777910257,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 5.6.-6 / split magnet 1,NdFeB,0.6991304888060368,1.5874507866387546,0.4499999999999993,0.0028543296303086617,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 5.6.-6 / split round pole 2,Steel,0.8000000000000007,1.7888543819998315,0.3000000000000007,0.0025733463777910235,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 5.6.-6 / split magnet 2,NdFeB,0.7000000000000002,1.5874507866387546,0.4499999999999993,0.0028543296303086634,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 5.6.-6 / hollow radial support,Titanium,1.595938442552793,1.5963411152105902,1.9562523520412807,0.0038244254608650677,0.9 OD / 0.44 ID radial support; joint strength untested
+Triangular ramp 5.6.6 / three sloped facets,PEEK,7.089829842175299,5.643590404174257,3.9000000000000004,0.021971627173123783,Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test
+Triangular ramp 5.6.6 / split round pole 1,Steel,0.800000000000006,1.7888543819998333,0.3000000000000007,0.0025733463777910257,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 5.6.6 / split magnet 1,NdFeB,0.6991304888060368,1.5874507866387546,0.4499999999999993,0.0028543296303086617,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 5.6.6 / split round pole 2,Steel,0.8000000000000007,1.7888543819998315,0.3000000000000007,0.0025733463777910235,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 5.6.6 / split magnet 2,NdFeB,0.7000000000000002,1.5874507866387546,0.4499999999999993,0.0028543296303086634,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 5.6.6 / hollow radial support,Titanium,1.5958888763387034,1.5962032607605572,1.956498502342372,0.003824424208438353,0.9 OD / 0.44 ID radial support; joint strength untested
+Triangular ramp 6.-6.-6 / three sloped facets,PEEK,5.900359959027265,5.863647157892487,3.9000000000000004,0.020531951995119802,Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test
+Triangular ramp 6.-6.-6 / split round pole 1,Steel,0.800000000000006,1.7888543819998333,0.3000000000000007,0.0025733463777910257,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 6.-6.-6 / split magnet 1,NdFeB,0.6991304888060368,1.5874507866387546,0.4499999999999993,0.0028543296303086617,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 6.-6.-6 / split round pole 2,Steel,0.8000000000000007,1.7888543819998315,0.3000000000000007,0.0025733463777910235,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 6.-6.-6 / split magnet 2,NdFeB,0.7000000000000002,1.5874507866387546,0.4499999999999993,0.0028543296303086634,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 6.-6.-6 / hollow radial support,Titanium,1.595551963623592,1.595895171165708,1.9566273181641574,0.0038244236600575503,0.9 OD / 0.44 ID radial support; joint strength untested
+Triangular ramp 6.-6.6 / three sloped facets,PEEK,5.900359959027265,5.863647157892483,3.9000000000000004,0.0205319464250001,Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test
+Triangular ramp 6.-6.6 / split round pole 1,Steel,0.800000000000006,1.7888543819998333,0.3000000000000007,0.0025733463777910257,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 6.-6.6 / split magnet 1,NdFeB,0.6991304888060368,1.5874507866387546,0.4499999999999993,0.0028543296303086617,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 6.-6.6 / split round pole 2,Steel,0.8000000000000007,1.7888543819998315,0.3000000000000007,0.0025733463777910235,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 6.-6.6 / split magnet 2,NdFeB,0.7000000000000002,1.5874507866387546,0.4499999999999993,0.0028543296303086634,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 6.-6.6 / hollow radial support,Titanium,1.5958369313781269,1.5962203644128623,1.9564435160223965,0.0038244255200870626,0.9 OD / 0.44 ID radial support; joint strength untested
+Triangular ramp 6.6.-6 / three sloped facets,PEEK,7.089829842175305,5.643590404174258,3.9000000000000004,0.021971618822808358,Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test
+Triangular ramp 6.6.-6 / split round pole 1,Steel,0.800000000000006,1.7888543819998333,0.3000000000000007,0.0025733463777910257,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 6.6.-6 / split magnet 1,NdFeB,0.6991304888060368,1.5874507866387546,0.4499999999999993,0.0028543296303086617,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 6.6.-6 / split round pole 2,Steel,0.8000000000000007,1.7888543819998315,0.3000000000000007,0.0025733463777910235,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 6.6.-6 / split magnet 2,NdFeB,0.7000000000000002,1.5874507866387546,0.4499999999999993,0.0028543296303086634,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 6.6.-6 / hollow radial support,Titanium,1.5959384425527938,1.5963411152105893,1.9562523520412878,0.0038244243409532195,0.9 OD / 0.44 ID radial support; joint strength untested
+Triangular ramp 6.6.6 / three sloped facets,PEEK,7.089829842175299,5.643590404174258,3.9000000000000004,0.021971612250338928,Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test
+Triangular ramp 6.6.6 / split round pole 1,Steel,0.800000000000006,1.7888543819998333,0.3000000000000007,0.0025733463777910257,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 6.6.6 / split magnet 1,NdFeB,0.6991304888060368,1.5874507866387546,0.4499999999999993,0.0028543296303086617,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 6.6.6 / split round pole 2,Steel,0.8000000000000007,1.7888543819998315,0.3000000000000007,0.0025733463777910235,0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated
+Triangular ramp 6.6.6 / split magnet 2,NdFeB,0.7000000000000002,1.5874507866387546,0.4499999999999993,0.0028543296303086634,"0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component"
+Triangular ramp 6.6.6 / hollow radial support,Titanium,1.5958888763387034,1.5962032607605616,1.9564985023423702,0.003824425460979514,0.9 OD / 0.44 ID radial support; joint strength untested
+KYOCERA AVX SCCQ12B105MRB / 1 F 2.7 V,CapComposite,12.0,6.3,6.300000000000001,0.7,Actual 6.3 x 12 mm body; 0.8 F min / 1.5 ohm DC ESR; lead bends unmodeled
+Wurth 760308101208 coil / maximum stack envelope,Copper,10.592488287086837,10.596243477908597,1.6799999999999997,0.2,"10.3 +/-0.3 mm ferrite OD, <=1.68 mm stack; copper/ferrite composite envelope; nominal mass estimate"
+20 mm circular 4 layer motherboard,FR4,19.986740898848304,19.99336935028626,0.6000000000000001,0.3487167845484671,Package placement only; unrouted and no pin-level ERC/DRC
+U1 / STM32G431CBU6,PackageComposite,7.0,7.0,0.5499999999999998,0.05389999999999998,supplier body envelope; land pattern / routing unverified
+U2 / BQ51013B RHL,PackageComposite,4.5,3.5,1.0,0.0315,supplier body envelope; land pattern / routing unverified
+U3 / TPS63031 DSK,PackageComposite,2.5,2.5,0.7999999999999998,0.009999999999999998,supplier body envelope; land pattern / routing unverified
+L1 / 2.2 uH power inductor reservation,PackageComposite,2.5,2.5,1.0,0.012499999999999997,value/package target; exact order code and saturation need selection
+U4 / BQ25173 DSG,PackageComposite,2.0,2.0,0.7999999999999998,0.006399999999999999,supplier body envelope; land pattern / routing unverified
+U5 / LM66100 DCK,PackageComposite,2.1,2.0,1.1,0.00924,supplier body envelope; land pattern / routing unverified
+U6 / LM66100 DCK,PackageComposite,2.1,2.0,1.1,0.00924,supplier body envelope; land pattern / routing unverified
+U7 / TPS62840 DLCR,PackageComposite,1.5,2.0,0.7999999999999998,0.004799999999999999,750 mA motor buck candidate; circuit not routed
+L2 / 2.2 uH motor inductor reservation,PackageComposite,2.5,2.5,1.0,0.012499999999999997,current/inductance target; exact order code unselected
+U8 / Motor isolation switch reservation,PackageComposite,1.5,1.5,0.7999999999999998,0.0035999999999999995,current-limit cutoff implementation not selected
+U9 / DRV8311P RRW,PackageComposite,3.0,3.0,0.8,0.014400000000000001,supplier body envelope; land pattern / routing unverified
+U10 / DRV8311P RRW,PackageComposite,3.0,3.0,0.8,0.014400000000000001,supplier body envelope; land pattern / routing unverified
+U11 / DRV8311P RRW,PackageComposite,3.0,3.0,0.8,0.014400000000000001,supplier body envelope; land pattern / routing unverified
+U12 / SN74AXC8T245 RJW,PackageComposite,4.0,2.0,0.6,0.0096,Ioff / supply isolation candidate; pin routing and OE sequence unverified
+U13 / SN74AXC8T245 RJW,PackageComposite,4.0,2.0,0.6,0.0096,Ioff / supply isolation candidate; pin routing and OE sequence unverified
+P1 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P2 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P3 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P4 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P5 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P6 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P7 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P8 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P9 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P10 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P11 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P12 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P13 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P14 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P15 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P16 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P17 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P18 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P19 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P20 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P21 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P22 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P23 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P24 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P25 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P26 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P27 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P28 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P29 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P30 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P31 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P32 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P33 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P34 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P35 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P36 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P37 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P38 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P39 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P40 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P41 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P42 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P43 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P44 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P45 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P46 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P47 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P48 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P49 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P50 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P51 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P52 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P53 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P54 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P55 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+P56 / 0402 passive allocation,PackageComposite,1.0,0.5,0.5,0.0004999999999999999,role/value/order code not all frozen; NOT a validated netlist
+0308H003B BLDC motor 1,PackageComposite,8.4,3.0,3.0,0.35,3 mm dia x 8.4; supplier 0.35 g; rated torque 0.013 mNm; shaft/mount require supplier CAD
+03B 125:1 gearhead 1,Steel,6.0,3.397928811864926,3.395858885441702,0.18,3.4 dia x 6; 0.18 g; 0.88 mNm continuous / 15000 rpm input max; supplier assembled-combo confirmation required
+Geared output shaft 1,Steel,0.5999999999999996,0.5988160370569631,0.5999999999999996,0.001331721125856713,0.6 mm shaft proxy; confirm real output-shaft drawing
+20 tooth m0.1 input pinion 1,Steel,0.5000000000000009,2.1999999999999997,2.1999999999999997,0.011852490115291348,"20 degree involute approximation; 0.5 face, 0.01 mm tooth backlash reduction; custom unqualified"
+25 tooth m0.1 reduction gear 1,Steel,0.5000000000000009,2.692844736171179,2.69782169051099,0.018700055778801676,1.25:1 extra reduction; 2.25 mm center distance; custom manufacture/wear unqualified
+Final tendon capstan 1,Titanium,0.40000000000000036,1.5976534621617982,1.5999999999999996,0.0035628173965831134,"0.8 mm tendon pitch radius; tendon, brake and captured hinge routing unresolved"
+0308H003B BLDC motor 2,PackageComposite,8.4,3.0,3.0,0.35,3 mm dia x 8.4; supplier 0.35 g; rated torque 0.013 mNm; shaft/mount require supplier CAD
+03B 125:1 gearhead 2,Steel,6.0,3.3979288118649253,3.395858885441702,0.18,3.4 dia x 6; 0.18 g; 0.88 mNm continuous / 15000 rpm input max; supplier assembled-combo confirmation required
+Geared output shaft 2,Steel,0.5999999999999996,0.5988160370569631,0.5999999999999996,0.0013317211258567128,0.6 mm shaft proxy; confirm real output-shaft drawing
+20 tooth m0.1 input pinion 2,Steel,0.5000000000000009,2.2,2.1999999999999997,0.011852490115291327,"20 degree involute approximation; 0.5 face, 0.01 mm tooth backlash reduction; custom unqualified"
+25 tooth m0.1 reduction gear 2,Steel,0.5000000000000009,2.692844736171179,2.69782169051099,0.018700055778801676,1.25:1 extra reduction; 2.25 mm center distance; custom manufacture/wear unqualified
+Final tendon capstan 2,Titanium,0.40000000000000036,1.5976534621617982,1.5999999999999996,0.0035628173965831134,"0.8 mm tendon pitch radius; tendon, brake and captured hinge routing unresolved"
+0308H003B BLDC motor 3,PackageComposite,8.4,3.0,3.0,0.35,3 mm dia x 8.4; supplier 0.35 g; rated torque 0.013 mNm; shaft/mount require supplier CAD
+Direct slide capstan / 0.5 mm pitch radius,Titanium,0.5999999999999996,0.9983081582712678,1.0,0.0020875883183104167,"Direct motor drive; slip, bearing and tendon fatigue untested"
+Captured hinge pin / 0.8 dia x 3,Steel,3.0,0.8000000000000007,0.7999999999999999,0.01183752111872634,"Pin candidate; 0.1 N force load gives low shear stress, bearing/retention still unqualified"
+Captured pin bearing sleeve,Titanium,2.8,1.5,1.5,0.015045666527726835,1.5 OD / 0.84 ID / 2.8 length; no demonstrated automatic transfer latch

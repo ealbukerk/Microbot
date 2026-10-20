@@ -1,0 +1,83 @@
+{
+  "quantity": 10000,
+  "currency": "USD",
+  "price_status": "All line prices are engineering assumptions, NOT supplier quotes. Manufacturer publishes request-for-quote, no verified 10k price.",
+  "direct_low": 320,
+  "direct_high": 807,
+  "yield_assumption": 0.9,
+  "recurring_per_bot_low": 355.55555555555554,
+  "recurring_per_bot_high": 896.6666666666666,
+  "NRE_low": 500000,
+  "NRE_high": 2000000,
+  "amortized_per_bot_low": 405.55555555555554,
+  "amortized_per_bot_high": 1096.6666666666665,
+  "total_10000_low": 4055555.5555555555,
+  "total_10000_high": 10966666.666666666,
+  "excluded": "Tax, shipping, mat/beam transmitter, external battery, certification, warranty, financing and redesign after failed validation.",
+  "confidence": "Low; drive and assembly quotes dominate. Do not use as a procurement commitment.",
+  "items": [
+    {
+      "item": "Precision motor + 03B gearhead",
+      "qty": 2,
+      "unit_low_USD": 100,
+      "unit_high_USD": 250,
+      "extended_low_USD": 200,
+      "extended_high_USD": 500,
+      "basis": "UNQUOTED engineering allowance; manufacturer RFQ required"
+    },
+    {
+      "item": "Bare precision motor",
+      "qty": 1,
+      "unit_low_USD": 50,
+      "unit_high_USD": 120,
+      "extended_low_USD": 50,
+      "extended_high_USD": 120,
+      "basis": "UNQUOTED engineering allowance; manufacturer RFQ required"
+    },
+    {
+      "item": "Populated 4 layer PCB, ICs and passives",
+      "qty": 1,
+      "unit_low_USD": 25,
+      "unit_high_USD": 55,
+      "extended_low_USD": 25,
+      "extended_high_USD": 55,
+      "basis": "UNQUOTED 10k volume allowance; no routed PCB quote"
+    },
+    {
+      "item": "Capacitor, coil and flex interconnect",
+      "qty": 1,
+      "unit_low_USD": 5,
+      "unit_high_USD": 12,
+      "extended_low_USD": 5,
+      "extended_high_USD": 12,
+      "basis": "UNQUOTED component allowance"
+    },
+    {
+      "item": "Sphere, 24 docks, magnets and supports",
+      "qty": 1,
+      "unit_low_USD": 12,
+      "unit_high_USD": 35,
+      "extended_low_USD": 12,
+      "extended_high_USD": 35,
+      "basis": "UNQUOTED tooling/precision parts allowance"
+    },
+    {
+      "item": "Captured mechanisms, custom gears and tendons",
+      "qty": 1,
+      "unit_low_USD": 8,
+      "unit_high_USD": 25,
+      "extended_low_USD": 8,
+      "extended_high_USD": 25,
+      "basis": "UNQUOTED custom mechanism allowance"
+    },
+    {
+      "item": "Assembly, calibration and functional test",
+      "qty": 1,
+      "unit_low_USD": 20,
+      "unit_high_USD": 60,
+      "extended_low_USD": 20,
+      "extended_high_USD": 60,
+      "basis": "UNQUOTED automation/labor allowance"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+item,qty,unit_low_USD,unit_high_USD,extended_low_USD,extended_high_USD,basis
+Precision motor + 03B gearhead,2,100,250,200,500,UNQUOTED engineering allowance; manufacturer RFQ required
+Bare precision motor,1,50,120,50,120,UNQUOTED engineering allowance; manufacturer RFQ required
+"Populated 4 layer PCB, ICs and passives",1,25,55,25,55,UNQUOTED 10k volume allowance; no routed PCB quote
+"Capacitor, coil and flex interconnect",1,5,12,5,12,UNQUOTED component allowance
+"Sphere, 24 docks, magnets and supports",1,12,35,12,35,UNQUOTED tooling/precision parts allowance
+"Captured mechanisms, custom gears and tendons",1,8,25,8,25,UNQUOTED custom mechanism allowance
+"Assembly, calibration and functional test",1,20,60,20,60,UNQUOTED automation/labor allowance

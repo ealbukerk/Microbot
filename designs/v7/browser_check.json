@@ -1,0 +1,20 @@
+{
+  "revision": "V7",
+  "url": "http://127.0.0.1:8771/RefinedBots.html",
+  "title": "Triangular ramp bots \u00b7 full specifications and costs",
+  "detailed_geometry_visually_verified": true,
+  "playback_observed": true,
+  "final_time_s": 6,
+  "final_stage": 12,
+  "final_frame": 576,
+  "rendered_frames": 298,
+  "viewer_error": "",
+  "cost_navigation_verified": true,
+  "hardware_validation": false,
+  "mesh_sha256": "0e2eaefa78a117f5840e23dcf8f8e55d7d042d2cfcba452024f138cdd16d6e2c",
+  "screenshots": [
+    "TriangularBotVerified.png",
+    "PyramidVerified.png",
+    "CostPageVerified.png"
+  ]
+}

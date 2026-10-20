@@ -1,0 +1,8 @@
+{
+  "mesh_components": 235,
+  "triangles_per_bot": 47368,
+  "valid_pose_frames": 577,
+  "ThreeJS_geometries_and_transforms_valid": true,
+  "WebGL_browser_render_verified": true,
+  "reason": "See browser_check.json and screenshots for this mesh; software playback only."
+}

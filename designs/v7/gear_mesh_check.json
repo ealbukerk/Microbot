@@ -1,0 +1,8 @@
+{
+  "samples": 61,
+  "pinion_span_deg": 18,
+  "ratio": 1.25,
+  "max_overlap_mm3": 0.0,
+  "interference_free_at_sampled_angles": true,
+  "scope": "Nominal custom tooth profile only; not contact stress, backlash tolerance, efficiency or endurance validation."
+}

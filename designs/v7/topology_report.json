@@ -1,0 +1,3469 @@
+{
+  "flat_docks_disconnected_frames": 504,
+  "ideal_captive_joint_graph_connected_all_frames": true,
+  "scope": "Added pin/rail edge is an ideal retained constraint. Automatic physical latch transfer is assumed and unvalidated.",
+  "frames": [
+    {
+      "frame": 0,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 76
+    },
+    {
+      "frame": 1,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 2,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 3,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 4,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 5,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 6,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 7,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 8,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 9,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 10,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 11,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 12,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 13,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 14,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 15,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 16,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 17,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 18,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 19,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 20,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 21,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 22,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 23,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 24,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 25,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 26,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 27,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 28,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 29,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 30,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 31,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 32,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 33,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 34,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 35,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 36,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 37,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 38,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 39,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 40,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 41,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 42,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 43,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 44,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 45,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 76
+    },
+    {
+      "frame": 46,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 76
+    },
+    {
+      "frame": 47,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 76
+    },
+    {
+      "frame": 48,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 76
+    },
+    {
+      "frame": 49,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 50,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 51,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 52,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 53,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 54,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 55,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 56,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 57,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 58,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 59,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 60,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 61,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 62,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 63,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 64,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 65,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 66,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 67,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 68,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 69,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 70,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 71,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 72,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 73,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 74,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 75,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 76,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 77,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 78,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 79,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 80,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 81,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 82,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 83,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 84,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 85,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 86,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 87,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 88,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 89,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 90,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 91,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 92,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 93,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 94,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 95,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 96,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 97,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 98,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 99,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 100,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 101,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 102,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 103,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 104,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 105,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 106,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 107,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 108,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 109,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 110,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 111,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 112,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 113,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 114,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 115,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 116,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 117,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 118,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 119,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 120,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 121,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 122,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 123,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 124,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 125,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 126,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 127,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 128,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 129,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 130,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 131,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 132,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 133,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 134,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 135,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 136,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 137,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 138,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 139,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 140,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 141,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 142,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 143,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 144,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 72
+    },
+    {
+      "frame": 145,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 146,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 147,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 148,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 149,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 150,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 151,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 152,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 153,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 154,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 155,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 156,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 157,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 158,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 159,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 160,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 161,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 162,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 163,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 164,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 165,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 166,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 167,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 168,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 169,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 170,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 171,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 172,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 173,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 174,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 175,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 176,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 177,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 178,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 179,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 180,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 181,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 182,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 183,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 184,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 185,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 186,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 187,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 188,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 189,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 190,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 191,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 192,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 193,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 194,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 195,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 196,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 197,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 198,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 199,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 200,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 201,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 202,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 203,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 204,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 205,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 206,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 207,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 208,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 209,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 210,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 211,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 212,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 213,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 214,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 215,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 216,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 217,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 218,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 219,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 220,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 221,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 222,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 223,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 224,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 225,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 226,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 227,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 228,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 229,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 230,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 231,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 232,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 233,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 234,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 235,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 236,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 237,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 238,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 239,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 240,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 241,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 242,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 243,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 244,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 245,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 246,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 247,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 248,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 249,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 250,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 251,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 252,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 253,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 254,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 255,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 256,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 257,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 258,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 259,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 260,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 261,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 262,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 263,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 264,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 265,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 266,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 267,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 268,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 269,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 270,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 271,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 272,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 273,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 274,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 275,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 276,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 277,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 278,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 279,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 280,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 66
+    },
+    {
+      "frame": 281,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 282,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 283,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 284,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 285,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 286,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 287,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 288,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 289,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 290,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 291,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 292,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 293,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 294,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 295,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 296,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 297,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 298,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 299,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 300,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 301,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 302,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 303,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 304,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 305,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 306,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 307,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 308,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 309,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 310,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 311,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 312,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 313,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 314,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 315,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 316,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 317,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 318,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 319,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 320,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 321,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 322,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 323,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 324,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 325,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 326,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 327,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 328,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 329,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 330,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 331,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 332,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 333,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 76
+    },
+    {
+      "frame": 334,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 76
+    },
+    {
+      "frame": 335,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 76
+    },
+    {
+      "frame": 336,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 76
+    },
+    {
+      "frame": 337,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 338,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 339,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 340,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 341,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 342,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 343,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 344,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 345,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 346,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 347,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 348,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 349,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 350,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 351,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 352,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 353,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 354,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 355,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 356,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 357,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 358,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 359,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 360,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 361,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 362,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 363,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 364,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 365,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 366,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 367,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 368,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 369,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 370,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 371,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 372,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 373,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 374,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 375,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 376,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 70
+    },
+    {
+      "frame": 377,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 78
+    },
+    {
+      "frame": 378,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 78
+    },
+    {
+      "frame": 379,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 78
+    },
+    {
+      "frame": 380,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 78
+    },
+    {
+      "frame": 381,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 78
+    },
+    {
+      "frame": 382,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 78
+    },
+    {
+      "frame": 383,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 78
+    },
+    {
+      "frame": 384,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 78
+    },
+    {
+      "frame": 385,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 386,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 387,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 388,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 389,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 390,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 391,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 392,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 393,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 394,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 395,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 396,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 397,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 398,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 399,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 400,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 401,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 402,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 403,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 404,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 405,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 406,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 407,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 408,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 409,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 410,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 411,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 412,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 413,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 414,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 415,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 416,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 417,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 418,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 419,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 420,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 421,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 422,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 423,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 424,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 425,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 426,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 427,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 428,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 429,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 430,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 431,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 432,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 433,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 434,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 435,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 436,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 437,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 438,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 439,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 440,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 441,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 442,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 443,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 444,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 445,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 446,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 447,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 448,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 449,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 450,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 451,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 452,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 453,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 454,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 455,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 456,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 457,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 458,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 459,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 460,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 461,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 462,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 463,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 464,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 465,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 466,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 467,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 468,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 469,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 470,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 471,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 472,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 74
+    },
+    {
+      "frame": 473,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 86
+    },
+    {
+      "frame": 474,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 86
+    },
+    {
+      "frame": 475,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 86
+    },
+    {
+      "frame": 476,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 86
+    },
+    {
+      "frame": 477,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 86
+    },
+    {
+      "frame": 478,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 86
+    },
+    {
+      "frame": 479,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 86
+    },
+    {
+      "frame": 480,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 86
+    },
+    {
+      "frame": 481,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 482,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 483,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 484,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 485,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 486,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 487,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 488,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 489,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 490,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 491,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 492,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 493,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 494,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 495,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 496,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 497,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 498,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 499,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 500,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 501,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 502,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 503,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 504,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 505,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 506,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 507,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 508,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 509,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 510,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 511,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 512,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 513,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 514,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 515,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 516,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 517,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 518,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 519,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 520,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 521,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 522,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 523,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 524,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 525,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 84
+    },
+    {
+      "frame": 526,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 84
+    },
+    {
+      "frame": 527,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 84
+    },
+    {
+      "frame": 528,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 84
+    },
+    {
+      "frame": 529,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 530,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 531,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 532,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 533,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 534,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 535,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 536,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 537,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 538,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 539,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 540,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 541,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 542,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 543,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 544,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 545,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 546,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 547,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 548,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 549,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 550,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 551,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 552,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 553,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 554,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 555,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 556,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 557,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 558,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 559,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 560,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 561,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 562,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 563,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 564,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 565,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 566,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 567,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 568,
+      "flat_docks_connected": false,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 80
+    },
+    {
+      "frame": 569,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 84
+    },
+    {
+      "frame": 570,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 84
+    },
+    {
+      "frame": 571,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 84
+    },
+    {
+      "frame": 572,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 84
+    },
+    {
+      "frame": 573,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 84
+    },
+    {
+      "frame": 574,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 84
+    },
+    {
+      "frame": 575,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 84
+    },
+    {
+      "frame": 576,
+      "flat_docks_connected": true,
+      "ideal_captive_joint_graph_connected": true,
+      "flat_land_pairs": 84
+    }
+  ]
+}

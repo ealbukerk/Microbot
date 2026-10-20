@@ -1,0 +1,283 @@
+{
+  "quantity": 10000,
+  "currency": "USD",
+  "price_status": "All line prices are engineering assumptions, NOT supplier quotes. Manufacturer publishes request-for-quote, no verified 10k price.",
+  "direct_low": 320,
+  "direct_high": 807,
+  "yield_assumption": 0.9,
+  "recurring_per_bot_low": 355.55555555555554,
+  "recurring_per_bot_high": 896.6666666666666,
+  "NRE_low": 500000,
+  "NRE_high": 2000000,
+  "amortized_per_bot_low": 405.55555555555554,
+  "amortized_per_bot_high": 1096.6666666666665,
+  "total_10000_low": 4055555.5555555555,
+  "total_10000_high": 10966666.666666666,
+  "excluded": "Tax, shipping, mat/beam transmitter, external battery, certification, warranty, financing and redesign after failed validation.",
+  "confidence": "Low; drive and assembly quotes dominate. Do not use as a procurement commitment.",
+  "items": [
+    {
+      "item": "Precision motor + 03B gearhead",
+      "qty": 2,
+      "unit_low_USD": 100,
+      "unit_high_USD": 250,
+      "extended_low_USD": 200,
+      "extended_high_USD": 500,
+      "basis": "UNQUOTED engineering allowance; manufacturer RFQ required"
+    },
+    {
+      "item": "Bare precision motor",
+      "qty": 1,
+      "unit_low_USD": 50,
+      "unit_high_USD": 120,
+      "extended_low_USD": 50,
+      "extended_high_USD": 120,
+      "basis": "UNQUOTED engineering allowance; manufacturer RFQ required"
+    },
+    {
+      "item": "Populated 4 layer PCB, ICs and passives",
+      "qty": 1,
+      "unit_low_USD": 25,
+      "unit_high_USD": 55,
+      "extended_low_USD": 25,
+      "extended_high_USD": 55,
+      "basis": "UNQUOTED 10k volume allowance; no routed PCB quote"
+    },
+    {
+      "item": "Capacitor, coil and flex interconnect",
+      "qty": 1,
+      "unit_low_USD": 5,
+      "unit_high_USD": 12,
+      "extended_low_USD": 5,
+      "extended_high_USD": 12,
+      "basis": "UNQUOTED component allowance"
+    },
+    {
+      "item": "Sphere, 24 docks, magnets and supports",
+      "qty": 1,
+      "unit_low_USD": 12,
+      "unit_high_USD": 35,
+      "extended_low_USD": 12,
+      "extended_high_USD": 35,
+      "basis": "UNQUOTED tooling/precision parts allowance"
+    },
+    {
+      "item": "Captured mechanisms, custom gears and tendons",
+      "qty": 1,
+      "unit_low_USD": 8,
+      "unit_high_USD": 25,
+      "extended_low_USD": 8,
+      "extended_high_USD": 25,
+      "basis": "UNQUOTED custom mechanism allowance"
+    },
+    {
+      "item": "Assembly, calibration and functional test",
+      "qty": 1,
+      "unit_low_USD": 20,
+      "unit_high_USD": 60,
+      "extended_low_USD": 20,
+      "extended_high_USD": 60,
+      "basis": "UNQUOTED automation/labor allowance"
+    }
+  ],
+  "structural_feedstock_only": {
+    "low": 0.3943767983802476,
+    "high": 1.4795913740275857,
+    "rows": [
+      {
+        "material": "FR4",
+        "modeled_net_g": 0.3487167845484671,
+        "stock_allowance_g": 0.6974335690969342,
+        "stock_utilization": 0.5,
+        "low_USD_kg": 100,
+        "high_USD_kg": 500,
+        "low": 0.06974335690969342,
+        "high": 0.3487167845484671
+      },
+      {
+        "material": "NdFeB",
+        "modeled_net_g": 0.13700782225481575,
+        "stock_allowance_g": 0.4566927408493859,
+        "stock_utilization": 0.3,
+        "low_USD_kg": 60,
+        "high_USD_kg": 250,
+        "low": 0.027401564450963152,
+        "high": 0.11417318521234647
+      },
+      {
+        "material": "PEEK",
+        "modeled_net_g": 1.2827945967836052,
+        "stock_allowance_g": 5.131178387134421,
+        "stock_utilization": 0.25,
+        "low_USD_kg": 50,
+        "high_USD_kg": 150,
+        "low": 0.25655891935672104,
+        "high": 0.7696767580701631
+      },
+      {
+        "material": "Steel",
+        "modeled_net_g": 0.199126681292595,
+        "stock_allowance_g": 0.9956334064629749,
+        "stock_utilization": 0.2,
+        "low_USD_kg": 2,
+        "high_USD_kg": 15,
+        "low": 0.00199126681292595,
+        "high": 0.014934501096944624
+      },
+      {
+        "material": "Titanium",
+        "modeled_net_g": 0.11604507254983211,
+        "stock_allowance_g": 0.7736338169988808,
+        "stock_utilization": 0.15,
+        "low_USD_kg": 50,
+        "high_USD_kg": 300,
+        "low": 0.038681690849944037,
+        "high": 0.23209014509966425
+      }
+    ],
+    "exclusions": "Excludes motors, gearheads, ICs, fabricated PCB, capacitor, coil, machining, coatings, bonding, tooling, assembly, yield of assembled bots and external power hardware. Effective package densities cannot price silicon/windings. Not total bot BOM.",
+    "basis": "All feedstock rates and stock utilization are engineering allowances, not dated supplier quotes."
+  },
+  "cost_down_target": {
+    "pre_yield": 42.9,
+    "yield_assumption": 0.9,
+    "recurring_target": 47.666666666666664,
+    "achieved": false,
+    "rows": [
+      {
+        "item": "Two custom motor + reduction units",
+        "qty": 2,
+        "unit_cap": 4.5,
+        "total": 9.0,
+        "gate": "New design + supplier quote + torque/speed/endurance proof required"
+      },
+      {
+        "item": "One custom bare motor",
+        "qty": 1,
+        "unit_cap": 2.0,
+        "total": 2.0,
+        "gate": "Must fit and meet direct-slide torque; unselected"
+      },
+      {
+        "item": "MCU",
+        "qty": 1,
+        "unit_cap": 2.0,
+        "total": 2.0,
+        "gate": "Cost ceiling; exact buying price unverified"
+      },
+      {
+        "item": "Three motor driver ICs",
+        "qty": 3,
+        "unit_cap": 1.1,
+        "total": 3.3000000000000003,
+        "gate": "Cost ceiling; exact buying price unverified"
+      },
+      {
+        "item": "Wireless receiver IC",
+        "qty": 1,
+        "unit_cap": 2.0,
+        "total": 2.0,
+        "gate": "Existing receiver architecture; raised-swarm delivery unresolved"
+      },
+      {
+        "item": "Charger / control converter / motor converter / OR / buffers",
+        "qty": 1,
+        "unit_cap": 3.6,
+        "total": 3.6,
+        "gate": "Combined IC budget; not a verified quote"
+      },
+      {
+        "item": "Inductors and all passives",
+        "qty": 1,
+        "unit_cap": 2.0,
+        "total": 2.0,
+        "gate": "Netlist and passive values incomplete"
+      },
+      {
+        "item": "Bare four-layer PCB",
+        "qty": 1,
+        "unit_cap": 1.2,
+        "total": 1.2,
+        "gate": "Routed board + panel yield quote required"
+      },
+      {
+        "item": "PCB component assembly",
+        "qty": 1,
+        "unit_cap": 1.5,
+        "total": 1.5,
+        "gate": "Stencil/panel/test assumptions"
+      },
+      {
+        "item": "1 F reserve capacitor",
+        "qty": 1,
+        "unit_cap": 0.8,
+        "total": 0.8,
+        "gate": "Supplier volume quote and ESR confirmation required"
+      },
+      {
+        "item": "Wireless coil",
+        "qty": 1,
+        "unit_cap": 1.2,
+        "total": 1.2,
+        "gate": "Existing coil max stack must be retained or revalidated"
+      },
+      {
+        "item": "Flex / wiring",
+        "qty": 1,
+        "unit_cap": 1.0,
+        "total": 1.0,
+        "gate": "Routing unimplemented"
+      },
+      {
+        "item": "Molded sphere and triangular ramp pods",
+        "qty": 1,
+        "unit_cap": 1.3,
+        "total": 1.3,
+        "gate": "Tooling excluded; micro-molding quote required"
+      },
+      {
+        "item": "48 custom split magnets",
+        "qty": 48,
+        "unit_cap": 0.045,
+        "total": 2.16,
+        "gate": "Custom geometry; cutting/coating/yield quote required"
+      },
+      {
+        "item": "48 pole pieces",
+        "qty": 48,
+        "unit_cap": 0.02,
+        "total": 0.96,
+        "gate": "Micro-stamping/MIM quote and magnetic circuit validation required"
+      },
+      {
+        "item": "24 radial supports",
+        "qty": 24,
+        "unit_cap": 0.02,
+        "total": 0.48,
+        "gate": "Microfabrication quote required"
+      },
+      {
+        "item": "Four custom reduction gears",
+        "qty": 4,
+        "unit_cap": 0.1,
+        "total": 0.4,
+        "gate": "Tooling, tooth life and efficiency unverified"
+      },
+      {
+        "item": "Tendon, latch, clutch, brake and sensor allowance",
+        "qty": 1,
+        "unit_cap": 4.0,
+        "total": 4.0,
+        "gate": "Incomplete mechanism; largest cost and packaging risk"
+      },
+      {
+        "item": "Final assembly and test",
+        "qty": 1,
+        "unit_cap": 4.0,
+        "total": 4.0,
+        "gate": "Automation/yield unverified"
+      }
+    ],
+    "scope": "Unquoted spending caps for a future custom-drive design. No low-cost drive has been selected, fitted or validated. Current precision-drive candidate is retained in CAD."
+  }
+}

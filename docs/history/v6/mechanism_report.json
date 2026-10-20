@@ -1,0 +1,66 @@
+{
+  "mass_g": 4.6161578920640896,
+  "roll_peak_com_speed_mm_s": 165.3634073654235,
+  "maximum_COM_acceleration_m_s2": 1.5459614387534977,
+  "peak_joint_force_N": 0.07445912975045871,
+  "analytic_roll_input_speed_peak_rpm": 13950.892857142855,
+  "conservative_roll_torque_bound_mNm": 1.417980769510408,
+  "conservative_bound_pass": true,
+  "conservative_bound_plus25pct_mass_pass": true,
+  "com_mm": [
+    0.041365539665166186,
+    -0.19397820772193597,
+    1.173786190665383
+  ],
+  "inertia_com_kgm2": [
+    [
+      2.590217399271005e-07,
+      -3.7621241199440196e-10,
+      1.8264108189307172e-11
+    ],
+    [
+      -3.7621241199440196e-10,
+      2.7218856136351925e-07,
+      2.448460543830324e-09
+    ],
+    [
+      1.8264108189307172e-11,
+      2.448460543830324e-09,
+      2.5742182758310536e-07
+    ]
+  ],
+  "duration_s": 6,
+  "roll_motion_s": 0.63,
+  "slide_motion_s": 0.27,
+  "capture_dwell_s": 0.05,
+  "roll_peak_deg_s": 535.7142857142857,
+  "roll_peak_output_rpm": 89.28571428571428,
+  "roll_peak_motor_rpm": 13947.830788384485,
+  "gear_input_limit_rpm": 15000,
+  "roll_required_mNm": 1.377885202268212,
+  "two_geared_motors_available_after_80pct_transmission_mNm": 1.7600000000000002,
+  "nominal_roll_torque_margin": 1.2773197629982296,
+  "roll_speed_screen_pass": true,
+  "nominal_roll_torque_screen_pass": true,
+  "roll_mass_plus_25pct_margin": 1.0369065055338083,
+  "slide_peak_motor_rpm": 2250.0770159465314,
+  "slide_required_motor_mNm": 0.010060265959091475,
+  "slide_continuous_motor_mNm": 0.013,
+  "slide_torque_screen_pass": true,
+  "slide_peak_mm_s": 117.85113019775791,
+  "max_ideal_constraint_closure_mm": 1.4142138265818187e-08,
+  "max_deployed_boom_extension_mm": 6.200000005614786,
+  "reserve_capacitance_min_F": 0.8,
+  "reserve_ESR_DC_max_ohm": 1.5,
+  "reserve_charge_V": 2.6,
+  "reserve_cutoff_V": 1.9,
+  "reserve_load_W": 0.05,
+  "reserve_efficiency_assumed": 0.75,
+  "reserve_ideal_energy_to_load_J": 0.9450000000000003,
+  "reserve_ideal_time_s": 18.900000000000006,
+  "physical_latch_transfer_validated": false,
+  "full_actuator_transmission_implemented": false,
+  "connector_swept_volume_audited": false,
+  "hardware_6_second_assembly_validated": false,
+  "scope": "Rigid pin/rail inverse dynamics, not forward dynamics or hardware validation. Coulomb slide friction coefficient 0.15; extra roll friction 0.1 mNm; torque sharing and 80% transmission efficiency assumed. 1.5 load multiplier applied. Sensors, commutation, brakes, clutches, tendon routing and 50 ms capture need proof."
+}

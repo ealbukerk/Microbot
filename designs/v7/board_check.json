@@ -1,0 +1,15 @@
+{
+  "diameter_mm": 20,
+  "thickness_mm": 0.6,
+  "layers": 4,
+  "package_count": 71,
+  "body_clearance_mm": 0.25,
+  "edge_margin_mm": 0.3,
+  "placement_errors": [],
+  "package_placement_pass": true,
+  "routed": false,
+  "pin_netlist_validated": false,
+  "ERC_run": false,
+  "DRC_run": false,
+  "fabrication_ready": false
+}

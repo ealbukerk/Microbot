@@ -1,0 +1,12 @@
+{
+  "part_count": 235,
+  "all_solids_valid": true,
+  "envelope_mm": [
+    24.000000000000004,
+    24.000000000000004,
+    24.0
+  ],
+  "mass_estimate_g": 4.637770957429328,
+  "intersections": [],
+  "mass_status": "Nominal solid volumes and assumed effective densities, not weighed hardware; winding envelope overestimates copper fill"
+}

@@ -1,0 +1,242 @@
+{
+  "assembly.json": {
+    "bytes": 1167315,
+    "sha256": "8f889b880c82e12cda052b268269602a61fa64011d671d9625ab8f15426cd03c"
+  },
+  "check_models.mjs": {
+    "bytes": 1831,
+    "sha256": "52714c867909ab1fef3aced892495d8da819aaefb16b4a4dbb27df43a930f265"
+  },
+  "model_check.json": {
+    "bytes": 271,
+    "sha256": "6ad27096a150198843bdbd93360494527afe2966ceb8f0d44ff8c2860f2492c2"
+  },
+  "Cutaway.png": {
+    "bytes": 66922,
+    "sha256": "9f57ad37644b9489ff4b5a013e957481172aff159bb6b931169010df46cc5c64"
+  },
+  "model_mesh.json": {
+    "bytes": 1207011,
+    "sha256": "0e2eaefa78a117f5840e23dcf8f8e55d7d042d2cfcba452024f138cdd16d6e2c"
+  },
+  "cad_report.json": {
+    "bytes": 335,
+    "sha256": "2e665864bd5327d581df2c7f117b40a8da7e9ea5980b213a8f0c6d1d7f468fed"
+  },
+  "AuditInertia.FCMacro": {
+    "bytes": 1452,
+    "sha256": "3e4fb594037fd38d2665f1777e2d7f330864b8cf2697ee20dd1eba843b0b4416"
+  },
+  "cost_estimate.json": {
+    "bytes": 2653,
+    "sha256": "d85fc5fd3f5ef23bcb8a1027c48a10caf8fb4406d42fa225a91ed808031b01fc"
+  },
+  "BOM.csv": {
+    "bytes": 54440,
+    "sha256": "bd2fdecda327f4abe9a4e7dc1eecbaf00b3b047769967e49077d816b17fe4231"
+  },
+  "Cost_10000.csv": {
+    "bytes": 763,
+    "sha256": "c06e5443b7bff36313f6640243073bb4d36fd601ca027076736f15f5fb527524"
+  },
+  "CostPageVerified.png": {
+    "bytes": 28000,
+    "sha256": "6a49b2faba891c3f3329d788ade27fd96e7b1186450e425fe8059dd23f1d6235"
+  },
+  "topology_report.json": {
+    "bytes": 86038,
+    "sha256": "05733d2f8e5a3496e20c399930df43e91b5601b40cf758b491bc23c03cc23124"
+  },
+  "cost_and_layout.py": {
+    "bytes": 3492,
+    "sha256": "7656569bb8120409626462fe3dfaf603eadb66bd70eaaecab1b46d696627eff8"
+  },
+  "REPORT.md": {
+    "bytes": 937,
+    "sha256": "7cff3ef72405f4978ef014248116c3a775e26469d6a25910cdca90be5dd749c3"
+  },
+  "Bot24.FCStd": {
+    "bytes": 1300731,
+    "sha256": "b87ecf00a8244aabe10f59dc9b60844d874644f25a40a9c8c2898017d07c6a83"
+  },
+  "inertia_parts.json": {
+    "bytes": 71760,
+    "sha256": "eec1512270f707fdba87d1212c6699ecffff07061f46b8dbf3844e5758c783de"
+  },
+  "RefinedBots.html": {
+    "bytes": 88578,
+    "sha256": "853bb4997fdc4298c4c39dca63c0e10fae8d74185b6f7872c12c5a0101a2bc23"
+  },
+  "board_placement.csv": {
+    "bytes": 8135,
+    "sha256": "57c630b18d9275ac5033a2003451d1a76b5ebbb5133aced796871962741acb20"
+  },
+  "board_check.json": {
+    "bytes": 321,
+    "sha256": "9db58f705c11621f4dc8afee5616846da7ee09a6bcdc789d8c91a6b5a46efa8f"
+  },
+  "actuator_trace.csv": {
+    "bytes": 75445,
+    "sha256": "3a1ca7fd2697e1c019fcd3ecf6a9a73d100d80b2e61d3edb3a2b608cc48d04de"
+  },
+  "reserve_trace.csv": {
+    "bytes": 154944,
+    "sha256": "5241cd5e33478b75d2dc5624d1c2edbcb150625234da0ab79cb47fcaa3844b3b"
+  },
+  "Bot24.step": {
+    "bytes": 6129499,
+    "sha256": "3d9556f1f95aadd99f2704b1c7be7fe4ecd0b8d8413b892ba7fa89677141fb08"
+  },
+  "check_electrical.py": {
+    "bytes": 2561,
+    "sha256": "0c35405c41ac6a44b549070f29876f2f3a73ffa5f26645ace99202863377f835"
+  },
+  "Pyramid14.png": {
+    "bytes": 187839,
+    "sha256": "08caded347ad5d99efec48622d351c0b2072072c2d559b018d5d079b44ebf556"
+  },
+  "README.md": {
+    "bytes": 535,
+    "sha256": "2ab4efb190d74dc6a3c587f4d3f68185ac02a94000cba96ed7c1009bc70f3084"
+  },
+  "publish_v7.py": {
+    "bytes": 20485,
+    "sha256": "4614a647063f06376c1ac543195b72709d3911b9050ee5c30507c8618d51aebf"
+  },
+  "mechanism_report.json": {
+    "bytes": 2523,
+    "sha256": "c21fbcac8e6b3b70d26e96ba8fb364ef0185b1c620390dd748384068b4893420"
+  },
+  "plan_assembly.py": {
+    "bytes": 5737,
+    "sha256": "993e3a1fd34118fc0340ae7b1c9e20ea31f61eef8ff224a70a3128a7c5ef6de7"
+  },
+  "browser_check.json": {
+    "bytes": 597,
+    "sha256": "b763d3fbb45576a5c88ea06ee9e0a154e42c22bdd0a9453e8f7e65c3698ebaae"
+  },
+  "board_placement.json": {
+    "bytes": 16483,
+    "sha256": "3da9e152346aaa0a029c8e523937d71897ff185e4f3ee8153707332d1009dc67"
+  },
+  "functional_topology.json": {
+    "bytes": 460,
+    "sha256": "bae9e9864bb75892522e568bc0364d4c0058217ce9dd7c6022081ec3ce894bd0"
+  },
+  "PyramidVerified.png": {
+    "bytes": 30686,
+    "sha256": "aecc78ecb8485f7570bf19cc02f97c00d5fff663c81a9e3cf09a7189ac53b6d7"
+  },
+  "Bot24.png": {
+    "bytes": 85080,
+    "sha256": "9d3d6ccd6649caeeedac2ce2ed261c4d3807abbd0b906af909fc2a175c743466"
+  },
+  "cost_v7.json": {
+    "bytes": 8658,
+    "sha256": "aca5a9bbeb355f78a8670bd14435db768b0d115409947f6cf938a6987f0c9a00"
+  },
+  "parts.json": {
+    "bytes": 93512,
+    "sha256": "018578a0c54fe1a45d618e1ae5577650fa231310455e488d28ce3b3ea280f312"
+  },
+  "render_animation.py": {
+    "bytes": 4441,
+    "sha256": "0d3e69780556028533d8d6902a95c6650d559dadbf72d2262f72111ba2ce2b15"
+  },
+  "Motion.png": {
+    "bytes": 100695,
+    "sha256": "6528794dba9dcbde719dedb88ed34ba5bd1a43f1e1d6b3ebf73c1431b27b43f3"
+  },
+  "electrical_check.json": {
+    "bytes": 1313,
+    "sha256": "8866a72d8d7329f2d3abbcc2deffcace3a3b822437ab359d4fff0c1bfd8678fc"
+  },
+  "Ground.png": {
+    "bytes": 101411,
+    "sha256": "197f621908ae1a3b9180a3be047ba5924074cbd472a14d10ae5b5152015146b7"
+  },
+  "BuildSphere.FCMacro": {
+    "bytes": 10325,
+    "sha256": "a44892ea7b63db404691c3b7e1441b978a7a9148e143cb8cc77a40bdebeaaa6a"
+  },
+  "SixSecondAssembly.gif": {
+    "bytes": 3599908,
+    "sha256": "52de32d7462270a69122ca605543558743ab656f2ecd14da984c646e918b0de6"
+  },
+  "assembly_report.json": {
+    "bytes": 858,
+    "sha256": "1715b53eff69ab8c82a80977a010549ffb6c3d55a9d8d491b7ebd488a78ac8a2"
+  },
+  "design_board.py": {
+    "bytes": 2916,
+    "sha256": "5c1631c380c9b900f850695a5ecda08c99dde73b67890a1b80a531cc1f8af2a0"
+  },
+  "Piece_dimensions.csv": {
+    "bytes": 46921,
+    "sha256": "0611eb19406f02f18897acd8ce49ecae9359d4c4534ba6de0ca072686e8c0517"
+  },
+  "BoardLayout.svg": {
+    "bytes": 12131,
+    "sha256": "bc20eb684039317b3f360c00dd9371ffecf49afc820f90075cf08e2d714aac5f"
+  },
+  "dock_geometry.json": {
+    "bytes": 1117,
+    "sha256": "8157795918935aa12564c7d3ca8abca21387bb630e875c950d04a4b47188597a"
+  },
+  "Swarm14.FCStd": {
+    "bytes": 22725208,
+    "sha256": "475809e17311a06c81956634d07f140adbb57731fe5d0de8169858f11551a355"
+  },
+  "Pyramid.png": {
+    "bytes": 89623,
+    "sha256": "888c617a7497d2d4952b9f27f0486491e9ec6fd213eef1c3eeec7416863eae74"
+  },
+  "gear_mesh_check.json": {
+    "bytes": 259,
+    "sha256": "68f0522692a1707054c38226e94f9c2a2ffd8d1468c2c3e98f234a91d6092b85"
+  },
+  "audit_topology.py": {
+    "bytes": 1651,
+    "sha256": "876865b92bd3160f4e7b9758cb44a8732245589e1b411b4120c1242f983f7b07"
+  },
+  "TriangularBotVerified.png": {
+    "bytes": 26678,
+    "sha256": "e0155e6ee0b1e4ca70feb5de58e8cba3d6bce352ea252ec90efbc36a365c68bf"
+  },
+  "render_cutaway.py": {
+    "bytes": 2238,
+    "sha256": "62186376ec010e5babf58dd7d71512fe1dbd44dd862cb3bc442e30abe4b4c0b0"
+  },
+  "SixSecondAssembly.mp4": {
+    "bytes": 256583,
+    "sha256": "56bc65104d7d4bcdb5fffc3852e2d78615dd37f043a8e4d6d2838b749ed89e63"
+  },
+  "CostDown_Target.csv": {
+    "bytes": 1670,
+    "sha256": "c57932bfb82d3f9a1ec41c279456b515aa40ba34413de7c9a9f9680e74afaa25"
+  },
+  "analyze.py": {
+    "bytes": 6817,
+    "sha256": "80c38513c59692add31af8652bd0fa633c030fc56cc395d82ae292555c939bde"
+  },
+  "write_report.py": {
+    "bytes": 23338,
+    "sha256": "74b2d8691400be095233077324f3caf08404e17078632242349c03a492f2db24"
+  },
+  "vendor/three.module.js": {
+    "bytes": 603113,
+    "sha256": "c8211c69345d2e9949dc7a8ac969380497aa0600a5a8ac6a459c8cd02dd9cb8a"
+  },
+  "vendor/LICENSE": {
+    "bytes": 1081,
+    "sha256": "bfe119ea4fd413f5f7ca3fcd63adb0c4a073ed39daa2fe7d3e6b769e21272601"
+  },
+  "vendor/three.core.js": {
+    "bytes": 1403455,
+    "sha256": "eb077d2417f61d3e6d9264c317cabc4ea35769ed6b0ab533067292a550784c20"
+  },
+  "vendor/OrbitControls.js": {
+    "bytes": 38703,
+    "sha256": "b97879c748170baadeb3fb84cea1ffdf4674e283dc06042f34e2acb95a76042c"
+  }
+}

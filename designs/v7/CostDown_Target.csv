@@ -1,0 +1,20 @@
+item,quantity,unit_budget_USD,extended_budget_USD,validation_gate
+Two custom motor + reduction units,2,4.5,9.0,New design + supplier quote + torque/speed/endurance proof required
+One custom bare motor,1,2.0,2.0,Must fit and meet direct-slide torque; unselected
+MCU,1,2.0,2.0,Cost ceiling; exact buying price unverified
+Three motor driver ICs,3,1.1,3.3000000000000003,Cost ceiling; exact buying price unverified
+Wireless receiver IC,1,2.0,2.0,Existing receiver architecture; raised-swarm delivery unresolved
+Charger / control converter / motor converter / OR / buffers,1,3.6,3.6,Combined IC budget; not a verified quote
+Inductors and all passives,1,2.0,2.0,Netlist and passive values incomplete
+Bare four-layer PCB,1,1.2,1.2,Routed board + panel yield quote required
+PCB component assembly,1,1.5,1.5,Stencil/panel/test assumptions
+1 F reserve capacitor,1,0.8,0.8,Supplier volume quote and ESR confirmation required
+Wireless coil,1,1.2,1.2,Existing coil max stack must be retained or revalidated
+Flex / wiring,1,1.0,1.0,Routing unimplemented
+Molded sphere and triangular ramp pods,1,1.3,1.3,Tooling excluded; micro-molding quote required
+48 custom split magnets,48,0.045,2.16,Custom geometry; cutting/coating/yield quote required
+48 pole pieces,48,0.02,0.96,Micro-stamping/MIM quote and magnetic circuit validation required
+24 radial supports,24,0.02,0.48,Microfabrication quote required
+Four custom reduction gears,4,0.1,0.4,"Tooling, tooth life and efficiency unverified"
+"Tendon, latch, clutch, brake and sensor allowance",1,4.0,4.0,Incomplete mechanism; largest cost and packaging risk
+Final assembly and test,1,4.0,4.0,Automation/yield unverified

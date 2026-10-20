@@ -1,0 +1,17 @@
+from pathlib import Path
+import json,csv,html
+p=Path(__file__).parent
+costs=[('Precision motor + 03B gearhead',2,100,250,'UNQUOTED engineering allowance; manufacturer RFQ required'),('Bare precision motor',1,50,120,'UNQUOTED engineering allowance; manufacturer RFQ required'),('Populated 4 layer PCB, ICs and passives',1,25,55,'UNQUOTED 10k volume allowance; no routed PCB quote'),('Capacitor, coil and flex interconnect',1,5,12,'UNQUOTED component allowance'),('Sphere, 24 docks, magnets and supports',1,12,35,'UNQUOTED tooling/precision parts allowance'),('Captured mechanisms, custom gears and tendons',1,8,25,'UNQUOTED custom mechanism allowance'),('Assembly, calibration and functional test',1,20,60,'UNQUOTED automation/labor allowance')]
+rows=[dict(item=a,qty=n,unit_low_USD=lo,unit_high_USD=hi,extended_low_USD=n*lo,extended_high_USD=n*hi,basis=b) for a,n,lo,hi,b in costs]
+lo=sum(r['extended_low_USD'] for r in rows);hi=sum(r['extended_high_USD'] for r in rows);yield_assumption=.9
+report=dict(quantity=10000,currency='USD',price_status='All line prices are engineering assumptions, NOT supplier quotes. Manufacturer publishes request-for-quote, no verified 10k price.',direct_low=lo,direct_high=hi,yield_assumption=yield_assumption,recurring_per_bot_low=lo/yield_assumption,recurring_per_bot_high=hi/yield_assumption,NRE_low=500000,NRE_high=2000000,amortized_per_bot_low=lo/yield_assumption+50,amortized_per_bot_high=hi/yield_assumption+200,total_10000_low=(lo/yield_assumption+50)*10000,total_10000_high=(hi/yield_assumption+200)*10000,excluded='Tax, shipping, mat/beam transmitter, external battery, certification, warranty, financing and redesign after failed validation.',confidence='Low; drive and assembly quotes dominate. Do not use as a procurement commitment.',items=rows)
+(p/'cost_estimate.json').write_text(json.dumps(report,indent=2))
+with (p/'Cost_10000.csv').open('w') as f:w=csv.DictWriter(f,fieldnames=rows[0]);w.writeheader();w.writerows(rows)
+items=json.loads((p/'board_placement.json').read_text());s=['<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760"><rect width="1200" height="760" fill="#102035"/><g fill="#ecf2fa" font-family="Arial"><text x="35" y="42" font-size="27">20 mm circular board · body placement study</text><text x="35" y="73" font-size="17">4 layers · 0.6 mm FR4 · 71 package bodies · 0.25 mm body clearance · 0.30 mm edge margin</text><text x="35" y="105" font-size="17" fill="#ffce8b">UNROUTED · no pin-level ERC / DRC · not a fabrication-ready circuit board</text>']
+for side,cx in [('front',305),('back',885)]:
+ cy=380;sc=22;s.append(f'<circle cx="{cx}" cy="{cy}" r="220" fill="#194b40" stroke="#b0d4ce" stroke-width="3"/><text x="{cx-40}" y="660" font-size="24">{side.upper()}</text>')
+ for c in items:
+  if c['side']!=side:continue
+  x=cx+sc*(c['x']-c['w']/2);y=cy-sc*(c['y']+c['h']/2);color='#b69a6f' if c['ref'].startswith('P') else '#3f526b';s.append(f'<rect x="{x:.2f}" y="{y:.2f}" width="{sc*c["w"]}" height="{sc*c["h"]}" fill="{color}" stroke="#d7e0e8"/><text x="{cx+sc*c["x"]}" y="{cy-sc*c["y"]+4}" text-anchor="middle" font-size="{10 if c["ref"].startswith("P") else 14}">{c["ref"]}</text>')
+s.append('<text x="35" y="710" font-size="16">Bodies shown at true relative scale. Copper, pads, vias, solder courtyards, antenna and all required connectors remain to design.</text></g></svg>');(p/'BoardLayout.svg').write_text(''.join(s))
+print({k:v for k,v in report.items() if k!='items'})

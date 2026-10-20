@@ -1,0 +1,27 @@
+{
+  "bots": 14,
+  "power_hubs": 0,
+  "envelope_mm": 24,
+  "formation": [
+    9,
+    4,
+    1
+  ],
+  "final_pyramid_envelope_mm": [
+    72,
+    72,
+    72
+  ],
+  "frames": 577,
+  "duration_s": 6.0,
+  "motion_law": "quintic rest to rest; 50 ms prescribed capture dwell per stage",
+  "geometric_collision_free": true,
+  "geometric_contact_graph_connected_all_frames": true,
+  "final_center_error_mm": 1.7763568394002505e-15,
+  "ground_penetration_free": true,
+  "failures": [],
+  "physical_magnetic_retention_validated": false,
+  "actuator_execution_validated": false,
+  "wireless_power_validated": false,
+  "scope": "Rigid envelope path only. Edge touching is not evidence of a functioning magnetic hinge, and sliding is not an implemented drive. Timing is a six-second target with explicit motion and handoff durations; hardware execution remains unproven."
+}

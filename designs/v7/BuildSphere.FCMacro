@@ -1,0 +1,111 @@
+import FreeCAD as A, Part, math, json, csv, traceback
+from FreeCAD import Vector as V
+from pathlib import Path
+P=Path(__file__).resolve().parent
+M={'PEEK':(1.30,(.18,.49,.62)),'Titanium':(4.43,(.67,.70,.74)),'Steel':(7.85,(.57,.61,.65)),'NdFeB':(7.5,(.37,.41,.48)),'Copper':(8.96,(.86,.48,.23)),'Ferrite':(4.8,(.25,.28,.31)),'FR4':(1.85,(.13,.46,.32)),'PackageComposite':(2,(.20,.23,.27)),'CapComposite':(1.5,(.23,.28,.34)),'PiezoComposite':(3,(.76,.64,.37)),'Polyimide':(1.42,(.82,.50,.19))}
+try:
+ d=A.newDocument('SphereBot24'); parts=[];meshes=[]
+ def box(x,y,z,p):return Part.makeBox(x,y,z,V(*p))
+ def part(name,s,mat,status,cat='structure',mass=None):
+  o=d.addObject('PartDesign::Feature','Component');o.Label=name;o.Shape=s;den,col=M[mat];o.ViewObject.ShapeColor=col
+  for k,v in [('Material',mat),('Validation',status),('Category',cat)]:o.addProperty('App::PropertyString',k,'Engineering');setattr(o,k,v)
+  mg=mass if mass is not None else s.Volume*den/1000
+  o.addProperty('App::PropertyFloat','EstimatedMass_g','Engineering').EstimatedMass_g=mg
+  bb=s.BoundBox;parts.append(dict(name=name,object=o.Name,material=mat,mass_g=mg,valid=s.isValid(),category=cat,status=status,dimensions_mm=[bb.XLength,bb.YLength,bb.ZLength]))
+  vv,ff=s.tessellate(.7);meshes.append(dict(name=name,category=cat,color=col,v=[[round(q.x,5),round(q.y,5),round(q.z,5)] for q in vv],f=[list(t) for t in ff]))
+  return o
+ outer=Part.makeSphere(11.8);inner=Part.makeSphere(11.45)
+ part('Central sphere / OD 23.6 ID 22.9 mm',outer.cut(inner),'PEEK','Nominal 0.35 mm wall; stress/fatigue untested','cover')
+ normals=[V(1,0,0),V(-1,0,0),V(0,1,0),V(0,-1,0),V(0,0,1),V(0,0,-1)]
+ for j,n in enumerate(normals):
+  for u in [-6,6]:
+   for v in [-6,6]:
+    rot=A.Rotation(V(0,0,1),n);pl=A.Placement(rot.multVec(V(u,v,0)),rot)
+    def orient(s):s=s.copy();s.Placement=pl.multiply(s.Placement);return s
+    # Three broad ramp facets instead of an almost-vertical square collar.
+    clock=math.radians(30 if (u*v)>0 else -30)
+    def triangle(side,z):
+     r=side/math.sqrt(3);pts=[V(r*math.cos(clock+q*2*math.pi/3),r*math.sin(clock+q*2*math.pi/3),z) for q in range(3)]
+     return Part.makePolygon(pts+[pts[0]])
+    head=Part.makeLoft([triangle(8.0,8.0),triangle(3.6,11.9)],True)
+    cavity=Part.makeLoft([triangle(7.0,7.8),triangle(2.6,11.55)],True)
+    # A face sector keeps neighboring faces from growing into one another.
+    def square(r,z):return Part.makePolygon([V(-r,-r,z),V(r,-r,z),V(r,r,z),V(-r,r,z),V(-r,-r,z)])
+    sector=Part.makeLoft([square(.001,0),square(11.90,12)],True)
+    sector.Placement=A.Placement(V(),rot)
+    tag='Triangular ramp %d.%d.%d'%(j+1,u,v)
+    gh=orient(head.cut(cavity)).cut(outer).common(sector)
+    # Split circular pole faces fit inside the triangle incircle, avoiding a pointed magnetic tip.
+    gh=gh.cut(orient(Part.makeCylinder(.91,.9,V(0,0,11.2))))
+    part(tag+' / three sloped facets',gh,'PEEK','Equilateral base side 8.0 at normal 8.0; landing side 3.6 at normal 11.9; 3.9 rise; 0.289 nominal sidewall; sphere/sector trimmed; no physical climb test','dock')
+    for k,sign in enumerate([-1,1]):
+     clipping=box(1,2,1,(.10 if sign>0 else -1.10,-1,11.0))
+     pole=Part.makeCylinder(.90,.30,V(0,0,11.7)).common(clipping)
+     mag=Part.makeCylinder(.80,.45,V(0,0,11.25)).common(clipping)
+     part(tag+' / split round pole '+str(k+1),orient(pole),'Steel','0.9 radius split circular pole; 0.2 mm central gap; 0.30 thick; retention/polarity/release unvalidated','dock')
+     part(tag+' / split magnet '+str(k+1),orient(mag),'NdFeB','0.8 radius half-disc minus 0.1 center gap; 0.45 thick; custom magnet, not a catalogue component','dock')
+    end=pl.multVec(V(0,0,10.6));dire=end/end.Length
+    spine=Part.makeCylinder(.45,end.Length-10.9,dire*10.9,dire).cut(Part.makeCylinder(.22,end.Length-10.9,dire*10.9,dire)).cut(outer).cut(gh).common(sector)
+    part(tag+' / hollow radial support',spine,'Titanium','0.9 OD / 0.44 ID radial support; joint strength untested')
+ # Smaller single-cell reserve restores spherical packaging.
+ part('KYOCERA AVX SCCQ12B105MRB / 1 F 2.7 V',Part.makeCylinder(3.15,12,V(-6,0,-2),V(1,0,0)),'CapComposite','Actual 6.3 x 12 mm body; 0.8 F min / 1.5 ohm DC ESR; lead bends unmodeled', 'electronics',.70)
+ part('Wurth 760308101208 coil / maximum stack envelope',Part.makeCylinder(5.3,1.68,V(0,0,-8.4)),'Copper','10.3 +/-0.3 mm ferrite OD, <=1.68 mm stack; copper/ferrite composite envelope; nominal mass estimate','electronics',.20)
+ part('20 mm circular 4 layer motherboard',Part.makeCylinder(10,.6,V(0,0,1.4)),'FR4','Package placement only; unrouted and no pin-level ERC/DRC','electronics')
+ board=json.loads((P/'board_placement.json').read_text())
+ for c in board:
+  z=2 if c['side']=='front' else 1.4-c['t']
+  part(c['ref']+' / '+c['name'],box(c['w'],c['h'],c['t'],(c['x']-c['w']/2,c['y']-c['h']/2,z)),'PackageComposite',c['status'],'electronics')
+ def involute_gear(teeth,center,sign):
+  module=.1;rp=module*teeth/2;rb=rp*math.cos(math.radians(20));ra=rp+module;rf=rp-1.25*module
+  inv=lambda ang:math.tan(ang)-ang
+  basehalf=math.pi/(2*teeth)+inv(math.radians(20))-.01/(2*rp)
+  pts=[]
+  def add(r,ang):pts.append(V(center[0],center[1]+r*math.cos(ang),center[2]+r*math.sin(ang)))
+  def half(r):return basehalf-inv(math.acos(rb/r))
+  for k in range(teeth):
+   c=2*math.pi*k/teeth;add(rf,c-basehalf);add(rb,c-basehalf)
+   for q in range(1,9):
+    r=rb+(ra-rb)*q/8;add(r,c-half(r))
+   for q in range(1,5):add(ra,c-half(ra)+2*half(ra)*q/4)
+   for q in range(1,9):
+    r=ra-(ra-rb)*q/8;add(r,c+half(r))
+   add(rf,c+basehalf)
+   end=2*math.pi*(k+1)/teeth-basehalf
+   for q in range(1,5):add(rf,c+basehalf+(end-c-basehalf)*q/4)
+  pts.append(pts[0]);return Part.Face(Part.makePolygon(pts)).extrude(V(sign*.5,0,0))
+ for j,y in enumerate([-4,0,4]):
+  sign=-1 if j==1 else 1;x0=-7.2*sign if j<2 else -4.2
+  part('0308H003B BLDC motor '+str(j+1),Part.makeCylinder(1.5,8.4,V(x0,y,4.9),V(sign,0,0)),'PackageComposite','3 mm dia x 8.4; supplier 0.35 g; rated torque 0.013 mNm; shaft/mount require supplier CAD','mechanism',.35)
+  if j<2:
+   part('03B 125:1 gearhead '+str(j+1),Part.makeCylinder(1.7,6,V(sign*1.2,y,4.9),V(sign,0,0)),'Steel','3.4 dia x 6; 0.18 g; 0.88 mNm continuous / 15000 rpm input max; supplier assembled-combo confirmation required','mechanism',.18)
+   part('Geared output shaft '+str(j+1),Part.makeCylinder(.3,.6,V(sign*7.2,y,4.9),V(sign,0,0)),'Steel','0.6 mm shaft proxy; confirm real output-shaft drawing','mechanism')
+   part('20 tooth m0.1 input pinion '+str(j+1),involute_gear(20,[sign*7.8,y,4.9],sign),'Steel','20 degree involute approximation; 0.5 face, 0.01 mm tooth backlash reduction; custom unqualified','mechanism')
+   part('25 tooth m0.1 reduction gear '+str(j+1),involute_gear(25,[sign*7.8,y+2.25,4.9],sign),'Steel','1.25:1 extra reduction; 2.25 mm center distance; custom manufacture/wear unqualified','mechanism')
+   part('Final tendon capstan '+str(j+1),Part.makeCylinder(.8,.4,V(sign*8.3,y+2.25,4.9),V(sign,0,0)),'Titanium','0.8 mm tendon pitch radius; tendon, brake and captured hinge routing unresolved','mechanism')
+  else:
+   part('Direct slide capstan / 0.5 mm pitch radius',Part.makeCylinder(.5,.6,V(4.2,y,4.9),V(1,0,0)),'Titanium','Direct motor drive; slip, bearing and tendon fatigue untested','mechanism')
+ # Geometric examples of positive-capture hardware, not attached to all 24 faces.
+ part('Captured hinge pin / 0.8 dia x 3',Part.makeCylinder(.4,3,V(-1.5,-7.5,-1),V(1,0,0)),'Steel','Pin candidate; 0.1 N force load gives low shear stress, bearing/retention still unqualified','mechanism')
+ sleeve=Part.makeCylinder(.75,2.8,V(-1.4,-7.5,-1),V(1,0,0)).cut(Part.makeCylinder(.42,2.8,V(-1.4,-7.5,-1),V(1,0,0)))
+ part('Captured pin bearing sleeve',sleeve,'Titanium','1.5 OD / 0.84 ID / 2.8 length; no demonstrated automatic transfer latch','mechanism')
+ d.recompute();allsh=[o.Shape for o in d.Objects if hasattr(o,'Shape')];bb=Part.makeCompound(allsh).BoundBox
+ intersections=[]
+ for i,p in enumerate(parts):
+  for q in parts[i+1:]:
+   a=d.getObject(p['object']).Shape;b=d.getObject(q['object']).Shape
+   if not a.BoundBox.intersect(b.BoundBox):continue
+   vol=a.common(b).Volume
+   if vol>1e-5:intersections.append(dict(a=p['name'],b=q['name'],overlap_mm3=vol))
+ mass=sum(p['mass_g'] for p in parts)
+ (P/'parts.json').write_text(json.dumps(parts,indent=2));(P/'model_mesh.json').write_text(json.dumps(meshes,separators=(',',':')))
+ (P/'cad_report.json').write_text(json.dumps(dict(part_count=len(parts),all_solids_valid=all(x['valid'] for x in parts),envelope_mm=[bb.XLength,bb.YLength,bb.ZLength],mass_estimate_g=mass,intersections=intersections,mass_status='Nominal solid volumes and assumed effective densities, not weighed hardware; winding envelope overestimates copper fill'),indent=2))
+ with (P/'BOM.csv').open('w') as f:w=csv.DictWriter(f,fieldnames=parts[0].keys());w.writeheader();w.writerows(parts)
+ Gui.activeDocument().activeView().viewAxonometric();Gui.activeDocument().activeView().fitAll();d.saveAs(str(P/'Bot24.FCStd'));Part.export(d.Objects,str(P/'Bot24.step'));Gui.activeDocument().activeView().saveImage(str(P/'Bot24.png'),1400,1100,'White')
+ data=json.loads((P/'assembly.json').read_text());sw=A.newDocument('Swarm14');sw.Label='14 x 24 mm | no hubs | geometric assembly study'
+ for i in range(14):
+  g=sw.addObject('App::Part','B%d'%i);g.Label='Bot %02d'%(i+1)
+  for p in parts:
+   src=d.getObject(p['object']);o=sw.addObject('PartDesign::Feature','Component');g.addObject(o);o.Label=p['name'];o.Shape=src.Shape.copy();o.ViewObject.ShapeColor=M[p['material']][1];o.addProperty('App::PropertyString','Material').Material=p['material'];o.addProperty('App::PropertyString','Validation').Validation=p['status']
+  tr=data['frames'][-1]['transforms']['B%d'%i];r=tr['R'];m=A.Matrix();m.A11,m.A12,m.A13=r[:3];m.A21,m.A22,m.A23=r[3:6];m.A31,m.A32,m.A33=r[6:9];g.Placement=A.Placement(V(*tr['t']),A.Rotation(m))
+ sw.recompute();Gui.activeDocument().activeView().viewAxonometric();Gui.activeDocument().activeView().fitAll();sw.saveAs(str(P/'Swarm14.FCStd'));Gui.activeDocument().activeView().saveImage(str(P/'Pyramid14.png'),1400,1100,'White');(P/'CAD_COMPLETE').write_text('Done');A.closeDocument(sw.Name);A.closeDocument(d.Name);Gui.getMainWindow().close()
+except Exception:(P/'CAD_ERROR.txt').write_text(traceback.format_exc());raise
